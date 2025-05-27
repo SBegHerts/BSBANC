@@ -1,0 +1,1225 @@
+Place,ID,Year,Region1,Region2,Type,CurrentOfstedOverall,MidYearPop,CPPAt3103,"Rate of children who were the subject of a child protection plan at 31 March per 10,000 children ",CLA_Mar2019,"Rate of children looked after at 31 March per 10,000 children aged under 18 years",CINAt3103,CINAt3103NoDisabled,Percentage of children in need at 31 March with a disability recorded,IDACI 2015: Average score (higher score is more deprived),Ppl_SqKm,PrimSecSpec_BME,% Minority Ethnic Pupils
+City of London,201,2019-20,London,Inner London,City of London Corporation,Outstanding,1621,0,0,24,148,101,8,8,0.1,3361,209,76
+Camden,202,2019-20,London,Inner London,London borough,Good,52407,270,52,190,36,1762,397,23,0.27,12393,16646,77
+Greenwich,203,2019-20,London,Outer London,London borough,Good,69047,262,38,462,67,2219,496,22,0.27,6086,30674,70
+Hackney,204,2019-20,London,Inner London,London borough,Requires improvement to be good,63866,245,38,432,68,3094,400,13,0.32,14758,28740,83
+Hammersmith and Fulham,205,2019-20,London,Inner London,London borough,Good,37032,141,38,252,68,1338,81,6,0.27,11287,14846,74
+Islington,206,2019-20,London,Inner London,London borough,Outstanding,42424,199,47,366,86,2091,299,14,0.35,16321,17733,73
+Kensington and Chelsea,207,2019-20,London,Inner London,London borough,Outstanding,28923,42,15,106,37,808,105,13,0.17,12876,10261,80
+Lambeth,208,2019-20,London,Inner London,London borough,Requires improvement to be good,62085,229,37,358,58,2419,335,14,0.3,12156,30867,84
+Lewisham,209,2019-20,London,Inner London,London borough,Requires improvement to be good,68561,257,38,472,69,2490,422,17,0.3,8702,29038,76
+Southwark,210,2019-20,London,Inner London,London borough,Good,65302,285,44,458,70,2820,550,20,0.3,11045,33055,79
+Tower Hamlets,211,2019-20,London,Inner London,London borough,Good,72290,235,33,307,42,2860,332,12,0.39,16427,41387,91
+Wandsworth,212,2019-20,London,Inner London,London borough,Requires improvement to be good,64462,231,36,277,43,2024,202,10,0.21,9624,24561,73
+Westminster,213,2019-20,London,Inner London,London borough,Outstanding,48791,56,12,219,45,1497,216,14,0.29,12167,19109,87
+Barking and Dagenham,301,2019-20,London,Outer London,London borough,Requires improvement to be good,63547,335,53,402,63,2352,138,6,0.32,5898,34697,79
+Barnet,302,2019-20,London,Outer London,London borough,Good,93672,156,17,325,35,1858,203,11,0.18,4563,41478,71
+Bexley,303,2019-20,London,Outer London,London borough,Outstanding,57087,147,26,222,39,1757,285,16,0.19,4099,19967,46
+Brent,304,2019-20,London,Outer London,London borough,Good,77687,254,33,299,38,2401,229,10,0.27,7628,42354,91
+Bromley,305,2019-20,London,Outer London,London borough,Good,74982,294,39,331,44,2419,517,21,0.17,2214,21143,42
+Croydon,306,2019-20,London,Outer London,London borough,Good,94931,498,53,791,83,4339,578,13,0.23,4471,42036,74
+Ealing,307,2019-20,London,Outer London,London borough,Requires improvement to be good,82172,195,24,332,40,3412,306,9,0.23,6154,46375,86
+Enfield,308,2019-20,London,Outer London,London borough,Good,84309,177,21,374,44,2463,554,23,0.31,4130,45610,81
+Haringey,309,2019-20,London,Inner London,London borough,Requires improvement to be good,59847,153,26,403,67,2284,174,8,0.29,9076,30438,80
+Harrow,310,2019-20,London,Outer London,London borough,Good,59375,273,46,185,31,1650,265,16,0.17,4977,33943,91
+Havering,311,2019-20,London,Outer London,London borough,Good,58361,142,24,232,40,1737,258,15,0.2,2310,15598,40
+Hillingdon,312,2019-20,London,Outer London,London borough,Good,74077,263,36,337,45,2191,256,12,0.21,2652,36835,71
+Hounslow,313,2019-20,London,Outer London,London borough,Good,65232,189,29,269,41,1939,259,13,0.22,4851,36247,82
+Kingston upon Thames,314,2019-20,London,Outer London,London borough,Outstanding,39528,212,54,125,32,977,72,7,0.12,4764,14561,56
+Merton,315,2019-20,London,Outer London,London borough,Good,47409,91,19,154,32,1048,207,20,0.17,5490,19605,69
+Newham,316,2019-20,London,Inner London,London borough,Inadequate,86068,367,43,411,48,3374,310,9,0.29,9756,60293,95
+Redbridge,317,2019-20,London,Outer London,London borough,Outstanding,76247,318,42,237,31,2130,527,25,0.19,5411,50539,88
+Richmond upon Thames,318,2019-20,London,Outer London,London borough,Good,45865,161,35,122,27,813,79,10,0.09,3450,11989,44
+Sutton,319,2019-20,London,Outer London,London borough,Good,48463,218,45,233,48,1739,450,26,0.16,4706,21675,55
+Waltham Forest,320,2019-20,London,Outer London,London borough,Good,66757,205,31,304,46,2028,75,4,0.27,7137,34760,82
+Birmingham,330,2019-20,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,287393,1276,44,1928,67,8778,1103,13,0.31,4264,143478,71
+Coventry,331,2019-20,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,79765,400,50,701,88,3418,361,11,0.25,3766,30208,53
+Dudley,332,2019-20,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,69544,352,51,623,90,2210,239,11,0.22,3283,12099,26
+Sandwell,333,2019-20,West Midlands,West Midlands,Metropolitan borough council,Inadequate,82449,662,80,865,105,3446,379,11,0.3,3839,35044,58
+Solihull,334,2019-20,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,47549,154,32,461,97,1477,361,24,0.16,1214,11195,28
+Walsall,335,2019-20,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,68970,240,35,671,97,2109,61,3,0.28,2746,21939,42
+Wolverhampton,336,2019-20,West Midlands,West Midlands,Metropolitan borough council,Good,62276,264,42,588,94,2157,310,14,0.31,3793,26842,57
+Knowsley,340,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,33802,171,51,307,91,1098,131,12,0.34,1744,1670,8
+Liverpool,341,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,96052,544,57,1424,148,4156,297,7,0.33,4453,20376,28
+St. Helens,342,2019-20,North West,North West,Metropolitan borough council,Inadequate,36868,205,56,496,135,1757,165,9,0.26,1324,1861,7
+Sefton,343,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,54057,258,48,566,105,2270,263,12,0.21,1765,3783,10
+Wirral,344,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,67508,283,42,812,120,2491,305,12,0.24,2013,4616,9
+Bolton,350,2019-20,North West,North West,Metropolitan borough council,Good,68385,317,46,632,92,2102,108,5,0.23,2057,21488,41
+Bury,351,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,43289,146,34,342,79,1302,211,16,0.18,1920,8314,28
+Manchester,352,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,122914,731,60,1407,114,5330,524,10,0.34,4781,57639,65
+Oldham,353,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,59592,386,65,520,87,2460,267,11,0.26,1666,20814,47
+Rochdale,354,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,53299,323,61,535,100,2532,287,11,0.27,1407,15066,41
+Salford,355,2019-20,North West,North West,Metropolitan borough council,Good,57452,548,95,558,97,2404,222,9,0.28,2663,10709,29
+Stockport,356,2019-20,North West,North West,Metropolitan borough council,Good,63518,208,33,368,58,2197,293,13,0.16,2328,8240,19
+Tameside,357,2019-20,North West,North West,Metropolitan borough council,Requires improvement to be good,50664,360,71,704,139,2224,106,5,0.25,2196,8801,24
+Trafford,358,2019-20,North West,North West,Metropolitan borough council,Inadequate,56511,205,36,378,67,1420,92,7,0.14,2238,15053,36
+Wigan,359,2019-20,North West,North West,Metropolitan borough council,Good,68916,377,55,533,77,3228,415,13,0.2,1747,4692,10
+Barnsley,370,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,51083,285,56,300,59,1809,261,14,0.25,750,3230,9
+Doncaster,371,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,66918,301,45,504,75,2436,241,10,0.25,549,7916,17
+Rotherham,372,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,57522,448,78,595,103,2549,136,5,0.24,926,8386,19
+Sheffield,373,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,117736,722,61,626,53,3860,528,14,0.24,1590,30348,37
+Bradford,380,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,142580,953,67,1245,87,5315,421,8,0.25,1473,58445,59
+Calderdale,381,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,46118,274,59,330,72,1427,111,8,0.21,581,9702,27
+Kirklees,382,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Requires improvement to be good,100094,399,40,669,67,2259,215,10,0.19,1076,27954,42
+Leeds,383,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Outstanding,169422,568,34,1346,79,5559,324,6,0.23,1438,45050,36
+Wakefield,384,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,73845,541,73,639,87,3028,294,10,0.22,1029,8414,16
+Gateshead,390,2019-20,North East,North East,Metropolitan borough council,Good,39387,273,69,414,105,1516,302,20,0.23,1419,3900,14
+Newcastle upon Tyne,391,2019-20,North East,North East,Metropolitan borough council,Requires improvement to be good,58451,587,100,662,113,2870,587,21,0.27,2669,13770,34
+North Tyneside,392,2019-20,North East,North East,Metropolitan borough council,Outstanding,41851,138,33,299,71,1464,207,14,0.2,2526,2888,9
+South Tyneside,393,2019-20,North East,North East,Metropolitan borough council,Good,30168,187,62,294,97,1345,199,15,0.28,2343,2052,9
+Sunderland,394,2019-20,North East,North East,Metropolitan borough council,Inadequate,54849,367,67,582,106,2245,213,10,0.26,2021,3631,9
+Isles of Scilly,420,2019-20,South West,South West,Council of the Isles of Scilly,Good,337,0,0,0,0,26,0,0,0.01,136,27,11
+Bath and North East Somerset,800,2019-20,South West,South West,Unitary,Good,36247,134,37,181,50,1001,249,25,0.12,559,3819,14
+"Bristol, City of",801,2019-20,South West,South West,Unitary,Requires improvement to be good,94136,296,31,623,66,2477,313,13,0.25,4224,23527,38
+North Somerset,802,2019-20,South West,South West,Unitary,Requires improvement to be good,43711,90,21,230,53,860,118,14,0.15,575,3749,12
+South Gloucestershire,803,2019-20,South West,South West,Unitary,Requires improvement to be good,59243,208,35,210,35,1721,249,15,0.12,574,7086,18
+Hartlepool,805,2019-20,North East,North East,Unitary,Good,20054,185,92,316,158,1396,162,12,0.31,999,1081,7
+Middlesbrough,806,2019-20,North East,North East,Unitary,Inadequate,32794,379,116,619,189,2852,193,7,0.36,2616,6913,28
+Redcar and Cleveland,807,2019-20,North East,North East,Unitary,Requires improvement to be good,27608,260,94,348,126,1758,217,12,0.27,560,1059,5
+Stockton-on-Tees,808,2019-20,North East,North East,Unitary,Requires improvement to be good,43848,352,80,576,131,2305,217,9,0.23,963,3954,12
+"Kingston Upon Hull, City of",810,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,57370,514,90,867,151,3793,357,9,0.34,3629,8421,20
+East Riding of Yorkshire,811,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,63044,224,36,340,54,2189,342,16,0.13,142,3412,8
+North East Lincolnshire,812,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,34518,407,118,572,166,2345,186,8,0.29,828,2153,9
+North Lincolnshire,813,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Outstanding,35638,73,21,231,65,999,115,12,0.21,204,3739,15
+North Yorkshire,815,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,County,Outstanding,117428,325,28,443,38,2605,483,19,0.11,77,7670,9
+York,816,2019-20,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,36625,238,65,262,72,1239,108,9,0.12,775,3382,13
+Luton,821,2019-20,East of England,East of England,Unitary,Inadequate,57487,247,43,387,67,2005,409,20,0.24,4914,31637,81
+Bedford Borough,822,2019-20,East of England,East of England,Unitary,Requires improvement to be good,40689,153,38,253,62,1301,212,16,0.19,364,13647,47
+Central Bedfordshire,823,2019-20,East of England,East of England,Unitary,Good,63665,155,24,314,49,1277,215,17,0.14,403,8547,19
+Buckinghamshire,825,2019-20,South East,South East,County,Inadequate,125734,575,46,484,38,3328,595,18,0.1,348,31995,37
+Milton Keynes,826,2019-20,South East,South East,Unitary,Requires improvement to be good,68805,132,19,403,59,2365,416,18,0.2,873,22062,47
+Derbyshire,830,2019-20,East Midlands,East Midlands,County,Requires improvement to be good,154264,964,63,861,56,5558,623,11,0.17,315,8004,7
+Derby,831,2019-20,East Midlands,East Midlands,Unitary,Good,59878,381,64,588,98,2674,340,13,0.25,3297,18690,43
+Dorset,838,2019-20,South West,South West,County,Not yet inspected,67868,276,41,474,70,2854,253,9,0.13,152,3919,8
+Poole,836,2019-20,South West,South West,Unitary,0,0,0,0,0,0,0,0,0,0.16,0,0,0
+Bournemouth,837,2019-20,South West,South West,Unitary,0,0,0,0,0,0,0,0,0,0.19,0,0,0
+Durham,840,2019-20,North East,North East,Unitary,Requires improvement to be good,101468,443,44,914,90,3551,388,11,0.24,238,4080,6
+Darlington,841,2019-20,North East,North East,Unitary,Requires improvement to be good,22529,85,38,270,120,927,135,15,0.22,541,2109,13
+East Sussex,845,2019-20,South East,South East,County,Outstanding,106338,536,50,592,56,3276,372,11,0.17,326,9448,14
+Brighton and Hove,846,2019-20,South East,South East,Unitary,Good,50267,335,67,370,74,1815,178,10,0.18,3512,8879,28
+Hampshire,850,2019-20,South East,South East,County,Outstanding,284331,938,33,1602,56,8293,1373,17,0.12,376,25491,14
+Portsmouth,851,2019-20,South East,South East,Unitary,Good,43756,203,46,466,106,1661,193,12,0.24,5321,6580,25
+Southampton,852,2019-20,South East,South East,Unitary,Requires improvement to be good,51275,396,77,486,95,2406,431,18,0.25,5062,12799,39
+Leicestershire,855,2019-20,East Midlands,East Midlands,County,Requires improvement to be good,141860,504,36,654,46,3035,312,10,0.12,339,19204,20
+Leicester,856,2019-20,East Midlands,East Midlands,Unitary,Requires improvement to be good,84082,316,38,611,73,1940,175,9,0.28,4830,42628,75
+Rutland,857,2019-20,East Midlands,East Midlands,Unitary,Requires improvement to be good,7854,21,27,43,55,175,25,14,0.08,105,492,9
+Staffordshire,860,2019-20,West Midlands,West Midlands,County,Good,170184,636,37,1217,72,5645,613,11,0.15,336,15848,13
+Stoke-on-Trent,861,2019-20,West Midlands,West Midlands,Unitary,Inadequate,57912,493,85,919,159,3222,326,10,0.29,2743,13333,33
+Wiltshire,865,2019-20,South West,South West,Unitary,Good,106064,366,35,458,43,2517,300,12,0.11,154,8884,13
+Swindon,866,2019-20,South West,South West,Unitary,Good,50357,169,34,301,60,1457,167,12,0.17,966,10950,31
+Bracknell Forest,867,2019-20,South East,South East,Unitary,Good,28384,122,43,142,50,879,115,13,0.11,1120,4289,24
+Windsor and Maidenhead,868,2019-20,South East,South East,Unitary,Good,34728,131,38,116,33,883,136,15,0.08,771,8525,38
+West Berkshire,869,2019-20,South East,South East,Unitary,Good,35595,106,30,157,44,930,118,13,0.1,225,4789,18
+Reading,870,2019-20,South East,South East,Unitary,Requires improvement to be good,37009,224,61,280,76,1451,166,11,0.2,4005,13469,59
+Slough,871,2019-20,South East,South East,Unitary,Requires improvement to be good,43112,301,70,196,45,1589,182,12,0.2,4595,27661,86
+Wokingham,872,2019-20,South East,South East,Unitary,Requires improvement to be good,40417,142,35,98,24,1039,102,10,0.07,956,9378,35
+Cambridgeshire,873,2019-20,East of England,East of England,County,Requires improvement to be good,136427,321,24,714,52,2724,324,12,0.13,215,21236,25
+Peterborough,874,2019-20,East of England,East of England,Unitary,Good,51833,188,36,372,72,1569,184,12,0.25,589,19198,51
+Halton,876,2019-20,North West,North West,Unitary,Requires improvement to be good,28770,153,53,278,97,1007,133,13,0.27,1636,1270,7
+Warrington,877,2019-20,North West,North West,Unitary,Good,44391,139,31,364,82,1276,113,9,0.15,1163,4502,14
+Devon,878,2019-20,South West,South West,County,Inadequate,146874,498,34,749,51,3127,696,22,0.14,122,7937,8
+Plymouth,879,2019-20,South West,South West,Unitary,Requires improvement to be good,52898,310,59,434,82,1819,288,16,0.23,3282,4828,13
+Torbay,880,2019-20,South West,South West,Unitary,Inadequate,25559,192,75,357,140,1288,222,17,0.24,2167,2072,10
+Essex,881,2019-20,East of England,East of England,County,Outstanding,314163,589,19,1071,34,6186,830,13,0.17,431,39815,19
+Southend-on-Sea,882,2019-20,East of England,East of England,Unitary,Requires improvement to be good,39738,160,40,314,79,1271,137,11,0.23,4394,8702,29
+Thurrock,883,2019-20,East of England,East of England,Unitary,Good,44650,170,38,297,67,1733,193,11,0.22,1064,12017,41
+Herefordshire,884,2019-20,West Midlands,West Midlands,Unitary,Requires improvement to be good,36048,108,30,351,97,1104,207,19,0.14,88,3044,13
+Worcestershire,885,2019-20,West Midlands,West Midlands,County,Requires improvement to be good,118860,523,44,819,69,3263,467,14,0.16,342,11900,15
+Kent,886,2019-20,South East,South East,County,Good,343839,1332,39,1807,53,10524,1627,16,0.18,446,52439,22
+Medway,887,2019-20,South East,South East,Unitary,Inadequate,64979,463,71,426,66,2303,296,13,0.22,1438,13078,28
+Lancashire,888,2019-20,North West,North West,County,Requires improvement to be good,251042,838,33,2096,83,8502,1301,15,0.18,422,36424,21
+Blackburn with Darwen,889,2019-20,North West,North West,Unitary,Good,38742,220,57,411,106,1524,113,7,0.24,1092,15174,55
+Blackpool,890,2019-20,North West,North West,Unitary,Inadequate,29215,363,124,652,223,2097,129,6,0.33,3999,2502,13
+Nottinghamshire,891,2019-20,East Midlands,East Midlands,County,Good,167547,799,48,916,55,4610,291,6,0.18,397,18837,16
+Nottingham,892,2019-20,East Midlands,East Midlands,Unitary,Requires improvement to be good,69071,609,88,656,95,3290,503,15,0.35,4462,26089,56
+Shropshire,893,2019-20,West Midlands,West Midlands,Unitary,Good,60013,270,45,399,66,1574,250,16,0.13,101,3496,9
+Telford and Wrekin,894,2019-20,West Midlands,West Midlands,Unitary,Outstanding,41120,239,58,403,98,1474,299,20,0.25,620,7133,24
+Cheshire East,895,2019-20,North West,North West,Unitary,Requires improvement to be good,77290,253,33,534,69,2106,182,9,0.12,329,6837,13
+Cheshire West and Chester,896,2019-20,North West,North West,Unitary,Good,68656,231,34,488,71,1831,145,8,0.17,373,5138,10
+Cornwall,908,2019-20,South West,South West,Unitary,Outstanding,108515,414,38,473,44,3212,352,11,0.18,161,5824,8
+Cumbria,909,2019-20,North West,North West,County,Requires improvement to be good,92527,620,67,721,78,2766,324,12,0.16,74,4129,6
+Gloucestershire,916,2019-20,South West,South West,County,Inadequate,128910,717,56,731,57,4023,302,8,0.15,240,15196,17
+Hertfordshire,919,2019-20,East of England,East of England,County,Good,272558,455,17,948,35,5037,1025,20,0.13,724,63235,32
+Isle of Wight,921,2019-20,South East,South East,Unitary,Good,24738,126,51,264,107,1168,204,18,0.2,373,1301,8
+Lincolnshire,925,2019-20,East Midlands,East Midlands,County,Outstanding,146412,354,24,622,42,3262,409,13,0.18,128,15656,15
+Norfolk,926,2019-20,East of England,East of England,County,Requires improvement to be good,171656,646,38,1106,64,4764,885,19,0.18,169,17329,15
+Northamptonshire,928,2019-20,East Midlands,East Midlands,County,Inadequate,171681,840,49,1163,68,5371,273,5,0.17,319,33948,29
+Northumberland,929,2019-20,North East,North East,Unitary,Good,59050,471,80,434,73,2399,403,17,0.19,64,2569,6
+Oxfordshire,931,2019-20,South East,South East,County,Good,146123,543,37,767,52,4750,551,12,0.12,266,24870,26
+Somerset,933,2019-20,South West,South West,County,Requires improvement to be good,111190,278,25,529,48,2445,311,13,0.15,163,7791,11
+Suffolk,935,2019-20,East of England,East of England,County,Outstanding,153591,458,30,936,61,3918,590,15,0.15,200,17211,17
+Surrey,936,2019-20,South East,South East,County,Inadequate,263760,685,26,981,37,5751,1083,19,0.1,720,42193,27
+Warwickshire,937,2019-20,West Midlands,West Midlands,County,Requires improvement to be good,117720,295,25,754,64,4073,784,19,0.14,293,17676,21
+West Sussex,938,2019-20,South East,South East,County,Inadequate,176107,816,46,808,46,5536,226,4,0.13,434,22658,20
+"Bournemouth, Christchurch and Poole",839,2019-20,South West,South West,Unitary,Not yet inspected,75568,226,30,526,70,2281,211,9,0,2439,10708,21
+City of London,201,2018-19,London,Inner London,City of London Corporation,Outstanding,1453,0,0,20,138,70,0,0,0.1,3361,213,75
+Camden,202,2018-19,London,Inner London,London borough,Good,50983,321,63,191,37,1717,428,25,0.27,12393,16909,77
+Greenwich,203,2018-19,London,Outer London,London borough,Good,68917,225,33,479,70,2558,474,19,0.27,6086,30274,70
+Hackney,204,2018-19,London,Inner London,London borough,Requires improvement to be good,63655,194,31,405,64,2904,416,14,0.32,14758,28819,83
+Hammersmith and Fulham,205,2018-19,London,Inner London,London borough,Good,36898,142,39,245,66,1822,158,9,0.27,11287,14837,74
+Islington,206,2018-19,London,Inner London,London borough,Outstanding,42098,186,44,313,74,2083,288,14,0.35,16321,17832,73
+Kensington and Chelsea,207,2018-19,London,Inner London,London borough,Outstanding,28678,51,18,93,32,851,101,12,0.17,12876,10257,79
+Lambeth,208,2018-19,London,Inner London,London borough,Requires improvement to be good,62629,254,41,352,56,2909,356,12,0.3,12156,31227,84
+Lewisham,209,2018-19,London,Inner London,London borough,Requires improvement to be good,68458,234,34,487,71,2356,380,16,0.3,8702,29577,76
+Southwark,210,2018-19,London,Inner London,London borough,Good,65121,328,50,459,70,2570,459,18,0.3,11045,33169,79
+Tower Hamlets,211,2018-19,London,Inner London,London borough,Good,70973,282,40,329,46,3503,356,10,0.39,16427,41115,91
+Wandsworth,212,2018-19,London,Inner London,London borough,Requires improvement to be good,63840,183,29,307,48,2172,165,8,0.21,9624,24523,73
+Westminster,213,2018-19,London,Inner London,London borough,Outstanding,47445,61,13,209,44,1455,200,14,0.29,12167,19234,87
+Barking and Dagenham,301,2018-19,London,Outer London,London borough,Requires improvement to be good,63401,307,48,417,66,2536,129,5,0.32,5898,33739,78
+Barnet,302,2018-19,London,Outer London,London borough,Good,92701,168,18,312,34,1923,225,12,0.18,4563,40863,70
+Bexley,303,2018-19,London,Outer London,London borough,Outstanding,56853,120,21,227,40,1594,292,18,0.19,4099,19261,45
+Brent,304,2018-19,London,Outer London,London borough,Good,77893,298,38,299,38,2502,216,9,0.27,7628,42277,91
+Bromley,305,2018-19,London,Outer London,London borough,Good,75055,244,33,348,46,2338,510,22,0.17,2214,20187,40
+Croydon,306,2018-19,London,Outer London,London borough,Good,94702,695,73,819,86,4536,356,8,0.23,4471,41661,73
+Ealing,307,2018-19,London,Outer London,London borough,Requires improvement to be good,81732,206,25,354,43,2673,216,8,0.23,6154,46116,86
+Enfield,308,2018-19,London,Outer London,London borough,Good,84497,278,33,379,45,2689,547,20,0.31,4130,45851,81
+Haringey,309,2018-19,London,Inner London,London borough,Requires improvement to be good,60398,187,31,429,71,2073,150,7,0.29,9076,30162,80
+Harrow,310,2018-19,London,Outer London,London borough,Good,58373,280,48,169,29,1820,228,13,0.17,4977,33176,90
+Havering,311,2018-19,London,Outer London,London borough,Good,57541,207,36,247,43,2362,233,10,0.2,2310,14580,38
+Hillingdon,312,2018-19,London,Outer London,London borough,Good,73377,375,51,326,44,2535,247,10,0.21,2652,35702,69
+Hounslow,313,2018-19,London,Outer London,London borough,Good,64898,245,38,278,43,1990,268,14,0.22,4851,35575,81
+Kingston upon Thames,314,2018-19,London,Outer London,London borough,Outstanding,38977,129,33,129,33,907,62,7,0.12,4764,14214,55
+Merton,315,2018-19,London,Outer London,London borough,Good,47266,184,39,157,33,1360,167,12,0.17,5490,19777,69
+Newham,316,2018-19,London,Inner London,London borough,Inadequate,86567,280,32,378,44,3372,455,14,0.29,9756,59656,95
+Redbridge,317,2018-19,London,Outer London,London borough,Outstanding,76159,250,33,236,31,2082,507,24,0.19,5411,49923,88
+Richmond upon Thames,318,2018-19,London,Outer London,London borough,Good,45525,96,21,115,25,794,76,10,0.09,3450,11522,42
+Sutton,319,2018-19,London,Outer London,London borough,Good,47941,187,39,237,49,1645,332,20,0.16,4706,20705,53
+Waltham Forest,320,2018-19,London,Outer London,London borough,Good,67017,218,33,288,43,2216,96,4,0.27,7137,35102,82
+Birmingham,330,2018-19,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,288388,1289,45,1946,67,8388,1056,13,0.31,4264,142128,70
+Coventry,331,2018-19,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,78994,353,45,703,89,3284,333,10,0.25,3766,29180,52
+Dudley,332,2018-19,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,69265,414,60,659,95,2699,304,11,0.22,3283,11959,25
+Sandwell,333,2018-19,West Midlands,West Midlands,Metropolitan borough council,Inadequate,81920,582,71,890,109,3879,417,11,0.3,3839,33833,57
+Solihull,334,2018-19,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,46946,203,43,424,90,1456,371,26,0.16,1214,10718,28
+Walsall,335,2018-19,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,68157,389,57,614,90,3004,218,7,0.28,2746,21098,41
+Wolverhampton,336,2018-19,West Midlands,West Midlands,Metropolitan borough council,Good,61244,328,54,625,102,2159,321,15,0.31,3793,25593,56
+Knowsley,340,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,33477,209,62,301,90,1172,93,8,0.34,1744,1486,7
+Liverpool,341,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,94902,554,58,1332,140,4213,295,7,0.33,4453,19339,27
+St. Helens,342,2018-19,North West,North West,Metropolitan borough council,Inadequate,36785,219,60,466,127,1813,361,20,0.26,1324,1720,6
+Sefton,343,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,53833,260,48,527,98,2203,276,13,0.21,1765,3571,9
+Wirral,344,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,67576,425,63,831,123,2830,329,12,0.24,2013,4428,9
+Bolton,350,2018-19,North West,North West,Metropolitan borough council,Good,67670,325,48,642,95,2358,117,5,0.23,2057,20341,40
+Bury,351,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,43142,203,47,335,78,1503,246,16,0.18,1920,8118,28
+Manchester,352,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,121962,787,65,1290,106,5279,410,8,0.34,4781,55564,64
+Oldham,353,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,59416,468,79,512,86,2866,269,9,0.26,1666,20243,46
+Rochdale,354,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,52689,381,72,568,108,2591,335,13,0.27,1407,14456,40
+Salford,355,2018-19,North West,North West,Metropolitan borough council,Good,56566,489,86,583,103,2298,232,10,0.28,2663,10247,29
+Stockport,356,2018-19,North West,North West,Metropolitan borough council,Good,63141,246,39,361,57,2021,283,14,0.16,2328,7827,19
+Tameside,357,2018-19,North West,North West,Metropolitan borough council,Requires improvement to be good,50223,355,71,664,132,2438,119,5,0.25,2196,8421,23
+Trafford,358,2018-19,North West,North West,Metropolitan borough council,Inadequate,56087,193,34,417,74,1634,122,8,0.14,2238,14318,35
+Wigan,359,2018-19,North West,North West,Metropolitan borough council,Good,68388,225,33,448,66,2041,334,16,0.2,1747,4343,9
+Barnsley,370,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,50727,246,49,301,59,1448,236,16,0.25,750,3017,9
+Doncaster,371,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,66448,300,45,533,80,2714,223,8,0.25,549,7620,16
+Rotherham,372,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,57196,507,89,642,112,2749,178,7,0.24,926,8202,18
+Sheffield,373,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,117497,565,48,627,53,3727,489,13,0.24,1590,29424,36
+Bradford,380,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,142005,861,61,1159,82,5476,401,7,0.25,1473,58222,58
+Calderdale,381,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,46021,261,57,335,73,1560,107,7,0.21,581,9606,26
+Kirklees,382,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Requires improvement to be good,100174,360,36,622,62,2455,198,8,0.19,1076,27685,41
+Leeds,383,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Outstanding,168176,399,24,1288,77,5472,336,6,0.23,1438,43329,35
+Wakefield,384,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,72893,507,70,609,84,3205,284,9,0.22,1029,8094,15
+Gateshead,390,2018-19,North East,North East,Metropolitan borough council,Good,39605,262,66,380,96,1505,278,19,0.23,1419,3662,13
+Newcastle upon Tyne,391,2018-19,North East,North East,Metropolitan borough council,Requires improvement to be good,58056,587,101,683,118,3181,499,16,0.27,2669,13293,33
+North Tyneside,392,2018-19,North East,North East,Metropolitan borough council,Outstanding,41360,149,36,307,74,1346,165,12,0.2,2526,2753,9
+South Tyneside,393,2018-19,North East,North East,Metropolitan borough council,Good,29920,160,54,306,102,1321,198,15,0.28,2343,1957,9
+Sunderland,394,2018-19,North East,North East,Metropolitan borough council,Inadequate,54563,464,85,595,109,2526,221,9,0.26,2021,3429,8
+Isles of Scilly,420,2018-19,South West,South West,Council of the Isles of Scilly,Good,368,0,0,0,0,28,0,0,0.01,136,31,12
+Bath and North East Somerset,800,2018-19,South West,South West,Unitary,Good,35946,91,25,191,53,993,245,25,0.12,559,3647,14
+"Bristol, City of",801,2018-19,South West,South West,Unitary,Requires improvement to be good,94016,349,37,617,66,2950,404,14,0.25,4224,23071,38
+North Somerset,802,2018-19,South West,South West,Unitary,Requires improvement to be good,43435,146,34,243,56,1187,165,14,0.15,575,3536,12
+South Gloucestershire,803,2018-19,South West,South West,Unitary,Requires improvement to be good,58867,201,34,192,33,1683,307,18,0.12,574,6696,17
+Hartlepool,805,2018-19,North East,North East,Unitary,Good,20006,129,65,284,142,1396,168,12,0.31,999,1054,7
+Middlesbrough,806,2018-19,North East,North East,Unitary,Inadequate,32513,263,81,519,160,2169,266,12,0.36,2616,6721,27
+Redcar and Cleveland,807,2018-19,North East,North East,Unitary,Requires improvement to be good,27626,159,58,297,108,1285,184,14,0.27,560,1008,5
+Stockton-on-Tees,808,2018-19,North East,North East,Unitary,Requires improvement to be good,43521,250,57,500,115,1875,235,13,0.23,963,3805,12
+"Kingston Upon Hull, City of",810,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,57023,541,95,796,140,3231,454,14,0.34,3629,8153,20
+East Riding of Yorkshire,811,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,62942,234,37,334,53,1807,325,18,0.13,142,3283,7
+North East Lincolnshire,812,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,34503,301,87,448,130,2332,124,5,0.29,828,2117,9
+North Lincolnshire,813,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Outstanding,35714,154,43,251,70,1183,144,12,0.21,204,3606,15
+North Yorkshire,815,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,County,Outstanding,117499,367,31,428,36,2680,527,20,0.11,77,7472,9
+York,816,2018-19,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,36572,160,44,207,57,1303,134,10,0.12,775,3143,12
+Luton,821,2018-19,East of England,East of England,Unitary,Inadequate,57375,177,31,406,71,1874,404,22,0.24,4914,30853,80
+Bedford Borough,822,2018-19,East of England,East of England,Unitary,Requires improvement to be good,40088,58,15,232,58,1174,189,16,0.19,364,13259,46
+Central Bedfordshire,823,2018-19,East of England,East of England,Unitary,Good,62515,188,30,320,51,1382,236,17,0.14,403,7977,18
+Buckinghamshire,825,2018-19,South East,South East,County,Inadequate,124321,562,45,515,41,3338,603,18,0.1,348,30511,36
+Milton Keynes,826,2018-19,South East,South East,Unitary,Requires improvement to be good,68278,136,20,381,56,2156,385,18,0.2,873,21026,45
+Derbyshire,830,2018-19,East Midlands,East Midlands,County,Requires improvement to be good,153272,932,61,802,52,5691,777,14,0.17,315,7727,7
+Derby,831,2018-19,East Midlands,East Midlands,Unitary,Good,59899,426,71,562,94,2922,335,12,0.25,3297,18280,43
+Dorset,835,2018-19,South West,South West,County,,76699,305,40,416,54,2712,219,8,0.13,152,4573,8
+Poole,836,2018-19,South West,South West,Unitary,0,30188,74,25,194,64,1103,162,15,0.16,0,2951,15
+Bournemouth,837,2018-19,South West,South West,Unitary,0,36373,136,37,251,69,1351,136,10,0.19,0,6408,27
+Durham,840,2018-19,North East,North East,Unitary,Requires improvement to be good,101040,403,40,840,83,3571,246,7,0.24,238,3960,5
+Darlington,841,2018-19,North East,North East,Unitary,Requires improvement to be good,22454,102,45,264,118,1042,127,12,0.22,541,2004,12
+East Sussex,845,2018-19,South East,South East,County,Outstanding,106378,569,54,600,56,3135,396,13,0.17,326,9111,14
+Brighton and Hove,846,2018-19,South East,South East,Unitary,Good,51005,316,62,391,77,2039,200,10,0.18,3512,8671,27
+Hampshire,850,2018-19,South East,South East,County,Outstanding,284002,1097,39,1664,59,8585,1015,12,0.12,376,24110,14
+Portsmouth,851,2018-19,South East,South East,Unitary,Good,44046,195,44,486,110,1645,196,12,0.24,5321,6379,25
+Southampton,852,2018-19,South East,South East,Unitary,Requires improvement to be good,50832,305,60,481,95,2657,450,17,0.25,5062,12345,38
+Leicestershire,855,2018-19,East Midlands,East Midlands,County,Requires improvement to be good,140307,388,28,584,42,2931,273,9,0.12,339,18370,19
+Leicester,856,2018-19,East Midlands,East Midlands,Unitary,Requires improvement to be good,83994,349,42,611,73,1971,192,10,0.28,4830,41686,74
+Rutland,857,2018-19,East Midlands,East Midlands,Unitary,Requires improvement to be good,7807,22,28,33,42,228,23,10,0.08,105,470,8
+Staffordshire,860,2018-19,West Midlands,West Midlands,County,Good,169603,796,47,1172,69,5663,688,12,0.15,336,15181,13
+Stoke-on-Trent,861,2018-19,West Midlands,West Midlands,Unitary,Inadequate,57549,309,54,851,148,3429,384,11,0.29,2743,12791,32
+Wiltshire,865,2018-19,South West,South West,Unitary,Good,105692,400,38,462,44,2951,326,11,0.11,154,8399,12
+Swindon,866,2018-19,South West,South West,Unitary,Good,50239,333,66,348,69,2277,241,11,0.17,966,10247,30
+Bracknell Forest,867,2018-19,South East,South East,Unitary,Good,28336,130,46,158,56,1043,108,10,0.11,1120,3996,22
+Windsor and Maidenhead,868,2018-19,South East,South East,Unitary,Good,34604,90,26,124,36,737,57,8,0.08,771,8172,37
+West Berkshire,869,2018-19,South East,South East,Unitary,Good,35623,118,33,172,48,1065,146,14,0.1,225,4531,17
+Reading,870,2018-19,South East,South East,Unitary,Requires improvement to be good,37080,255,69,273,74,1635,143,9,0.2,4005,12882,58
+Slough,871,2018-19,South East,South East,Unitary,Requires improvement to be good,42699,218,51,213,50,1426,221,16,0.2,4595,26911,85
+Wokingham,872,2018-19,South East,South East,Unitary,Requires improvement to be good,39532,127,32,110,28,898,53,6,0.07,956,8950,34
+Cambridgeshire,873,2018-19,East of England,East of England,County,Requires improvement to be good,135719,530,39,772,57,3388,357,11,0.13,215,20161,24
+Peterborough,874,2018-19,East of England,East of England,Unitary,Good,51137,206,40,370,72,1856,232,13,0.25,589,18518,50
+Halton,876,2018-19,North West,North West,Unitary,Requires improvement to be good,28617,127,44,265,93,931,125,13,0.27,1636,1163,6
+Warrington,877,2018-19,North West,North West,Unitary,Good,44484,216,49,385,87,1356,115,9,0.15,1163,4266,13
+Devon,878,2018-19,South West,South West,County,Inadequate,145878,518,36,750,51,4595,1542,34,0.14,122,7657,8
+Plymouth,879,2018-19,South West,South West,Unitary,Requires improvement to be good,52552,255,49,412,78,1757,318,18,0.23,3282,4650,12
+Torbay,880,2018-19,South West,South West,Unitary,Inadequate,25423,179,70,362,142,1067,184,17,0.24,2167,1962,10
+Essex,881,2018-19,East of England,East of England,County,Outstanding,311172,576,19,1054,34,6453,849,13,0.17,431,37450,18
+Southend-on-Sea,882,2018-19,East of England,East of England,Unitary,Requires improvement to be good,39540,171,43,308,78,1420,168,12,0.23,4394,8254,28
+Thurrock,883,2018-19,East of England,East of England,Unitary,Good,43762,153,35,293,67,1847,155,8,0.22,1064,11257,39
+Herefordshire,884,2018-19,West Midlands,West Midlands,Unitary,Requires improvement to be good,36103,111,31,333,92,877,136,16,0.14,88,2902,12
+Worcestershire,885,2018-19,West Midlands,West Midlands,County,Requires improvement to be good,117783,408,35,833,71,3588,381,11,0.16,342,11444,14
+Kent,886,2018-19,South East,South East,County,Good,340140,1303,38,1590,47,10370,1356,13,0.18,446,49256,21
+Medway,887,2018-19,South East,South East,Unitary,Inadequate,64391,355,55,424,66,2417,327,14,0.22,1438,12388,27
+Lancashire,888,2018-19,North West,North West,County,Requires improvement to be good,249727,1371,55,2116,85,9648,1307,14,0.18,422,35308,20
+Blackburn with Darwen,889,2018-19,North West,North West,Unitary,Good,38481,265,69,403,105,1852,122,7,0.24,1092,14877,55
+Blackpool,890,2018-19,North West,North West,Unitary,Inadequate,28904,399,138,568,197,2288,141,6,0.33,3999,2421,12
+Nottinghamshire,891,2018-19,East Midlands,East Midlands,County,Good,166542,834,50,869,52,4712,272,6,0.18,397,18057,15
+Nottingham,892,2018-19,East Midlands,East Midlands,Unitary,Requires improvement to be good,68651,509,74,629,92,3228,467,15,0.35,4462,25427,55
+Shropshire,893,2018-19,West Midlands,West Midlands,Unitary,Good,59839,328,55,396,66,1590,230,15,0.13,101,3365,9
+Telford and Wrekin,894,2018-19,West Midlands,West Midlands,Unitary,Outstanding,40620,252,62,388,96,1597,253,16,0.25,620,6606,22
+Cheshire East,895,2018-19,North West,North West,Unitary,Requires improvement to be good,76523,268,35,485,63,2108,190,9,0.12,329,6534,12
+Cheshire West and Chester,896,2018-19,North West,North West,Unitary,Good,68054,230,34,478,70,1878,148,8,0.17,373,4794,10
+Cornwall,908,2018-19,South West,South West,Unitary,Outstanding,107810,449,42,453,42,4149,548,13,0.18,161,7179,10
+Cumbria,909,2018-19,North West,North West,County,Requires improvement to be good,92500,563,61,683,74,3136,331,11,0.16,74,3998,6
+Gloucestershire,916,2018-19,South West,South West,County,Inadequate,128136,762,60,718,56,4163,277,7,0.15,240,14506,17
+Hertfordshire,919,2018-19,East of England,East of England,County,Good,271005,556,21,930,34,5058,1030,20,0.13,724,60261,31
+Isle of Wight,921,2018-19,South East,South East,Unitary,Good,24869,165,66,243,98,1178,225,19,0.2,373,1274,8
+Lincolnshire,925,2018-19,East Midlands,East Midlands,County,Outstanding,145641,313,22,611,42,3556,415,12,0.18,128,15437,15
+Norfolk,926,2018-19,East of England,East of England,County,Requires improvement to be good,170810,626,37,1188,70,4729,915,19,0.18,169,16678,15
+Northamptonshire,928,2018-19,East Midlands,East Midlands,County,Inadequate,170235,661,39,1115,65,4693,325,7,0.17,319,32323,28
+Northumberland,929,2018-19,North East,North East,Unitary,Good,59011,415,70,370,63,2360,429,18,0.19,64,2415,5
+Oxfordshire,931,2018-19,South East,South East,County,Good,144788,592,41,779,54,4511,495,11,0.12,266,23885,25
+Somerset,933,2018-19,South West,South West,County,Requires improvement to be good,110700,402,36,534,48,2608,316,12,0.15,163,7418,11
+Suffolk,935,2018-19,East of England,East of England,County,Outstanding,152752,464,30,866,57,3532,654,19,0.15,200,16607,17
+Surrey,936,2018-19,South East,South East,County,Inadequate,261905,959,37,973,37,5932,1004,17,0.1,720,40229,26
+Warwickshire,937,2018-19,West Midlands,West Midlands,County,Requires improvement to be good,115928,345,30,722,62,3914,679,17,0.14,293,16680,20
+West Sussex,938,2018-19,South East,South East,County,Inadequate,174672,621,36,704,40,4699,243,5,0.13,434,21698,19
+"Bournemouth, Christchurch and Poole",839,2018-19,South West,South West,Unitary,Not yet inspected,66561,210,31,445,67,2454,298,12,0,2439,9359,21
+City of London,201,2017-18,London,Inner London,City of London Corporation,Outstanding,1254,0,0,10,80,51,6,12,0.1,2636,212,75
+Camden,202,2017-18,London,Inner London,London borough,Good,49173,311,63,199,40,1776,433,24,0.27,11628,16836,77
+Greenwich,203,2017-18,London,Outer London,London borough,Good,68262,277,41,492,72,2619,469,18,0.27,5976,29314,69
+Hackney,204,2017-18,London,Inner London,London borough,Requires improvement to be good,63048,200,32,381,60,2806,367,13,0.32,14485,28486,83
+Hammersmith and Fulham,205,2017-18,London,Inner London,London borough,Good,35928,125,35,230,64,1513,192,13,0.27,11160,14538,73
+Islington,206,2017-18,London,Inner London,London borough,Outstanding,41416,216,52,339,82,2190,314,14,0.35,15818,17732,73
+Kensington and Chelsea,207,2017-18,London,Inner London,London borough,Outstanding,28475,78,27,87,31,923,85,9,0.17,12846,9793,79
+Lambeth,208,2017-18,London,Inner London,London borough,Requires improvement to be good,62632,300,48,410,65,3018,287,10,0.3,12087,31010,84
+Lewisham,209,2017-18,London,Inner London,London borough,Requires improvement to be good,68272,327,48,482,71,2567,390,15,0.3,8572,29966,76
+Southwark,210,2017-18,London,Inner London,London borough,Good,64386,347,54,491,76,2810,289,10,0.3,10887,32460,79
+Tower Hamlets,211,2017-18,London,Inner London,London borough,Good,68403,290,42,286,42,3158,373,12,0.39,15564,39700,91
+Wandsworth,212,2017-18,London,Inner London,London borough,Requires improvement to be good,63019,273,43,307,49,2818,325,12,0.21,9434,24153,73
+Westminster,213,2017-18,London,Inner London,London borough,Outstanding,45165,80,18,204,45,1619,251,16,0.29,11393,18951,86
+Barking and Dagenham,301,2017-18,London,Outer London,London borough,Requires improvement to be good,62889,321,51,408,65,2173,109,5,0.32,5836,32789,77
+Barnet,302,2017-18,London,Outer London,London borough,Good,91502,162,18,335,37,2107,317,15,0.18,4470,39601,70
+Bexley,303,2017-18,London,Outer London,London borough,Outstanding,56600,158,28,240,42,1601,291,18,0.19,4063,18740,43
+Brent,304,2017-18,London,Outer London,London borough,Good,77563,325,42,318,41,2852,202,7,0.27,7612,41595,92
+Bromley,305,2017-18,London,Outer London,London borough,Good,74041,222,30,310,42,1862,430,23,0.17,2194,19086,38
+Croydon,306,2017-18,London,Outer London,London borough,Good,94775,568,60,783,83,5198,411,8,0.23,4449,40587,72
+Ealing,307,2017-18,London,Outer London,London borough,Requires improvement to be good,81884,250,31,343,42,2283,172,8,0.23,6170,45236,85
+Enfield,308,2017-18,London,Outer London,London borough,Good,84211,235,28,333,40,2683,568,21,0.31,4116,45650,81
+Haringey,309,2017-18,London,Inner London,London borough,Requires improvement to be good,60625,339,56,429,71,2294,87,4,0.29,9163,29717,80
+Harrow,310,2017-18,London,Outer London,London borough,Good,57825,232,40,159,27,1505,238,16,0.17,4932,31937,89
+Havering,311,2017-18,London,Outer London,London borough,Good,56671,215,38,250,44,2273,266,12,0.2,2279,13829,36
+Hillingdon,312,2017-18,London,Outer London,London borough,Good,72746,373,51,290,40,2545,262,10,0.21,2613,34812,68
+Hounslow,313,2017-18,London,Outer London,London borough,Good,63928,228,36,248,39,1984,255,13,0.22,4807,34477,81
+Kingston upon Thames,314,2017-18,London,Outer London,London borough,Outstanding,38609,138,36,127,33,785,62,8,0.12,4686,13746,55
+Merton,315,2017-18,London,Outer London,London borough,Good,47002,196,42,154,33,1434,159,11,0.17,5476,19576,69
+Newham,316,2017-18,London,Inner London,London borough,Inadequate,85755,325,38,403,47,3915,500,13,0.29,9613,57204,95
+Redbridge,317,2017-18,London,Outer London,London borough,Outstanding,75908,289,38,223,29,2267,475,21,0.19,5349,48764,87
+Richmond upon Thames,318,2017-18,London,Outer London,London borough,Good,45122,97,22,105,23,793,77,10,0.09,3409,10883,41
+Sutton,319,2017-18,London,Outer London,London borough,Good,47469,265,56,215,45,1560,351,23,0.16,4635,19544,52
+Waltham Forest,320,2017-18,London,Outer London,London borough,Good,66801,161,24,294,44,2828,447,16,0.27,7099,34903,82
+Birmingham,330,2017-18,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,288082,1193,41,1922,67,9000,1083,12,0.31,4246,136975,70
+Coventry,331,2017-18,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,77584,464,60,652,84,3586,296,8,0.25,3651,27927,51
+Dudley,332,2017-18,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,68811,408,59,660,96,2715,393,15,0.22,3261,11569,25
+Sandwell,333,2017-18,West Midlands,West Midlands,Metropolitan borough council,Inadequate,81080,825,102,749,92,3661,255,7,0.3,3804,32702,56
+Solihull,334,2017-18,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,46714,205,44,413,88,1503,423,28,0.16,1200,10189,26
+Walsall,335,2017-18,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,67211,408,61,636,95,2715,220,8,0.28,2705,19841,40
+Wolverhampton,336,2017-18,West Midlands,West Midlands,Metropolitan borough council,Good,60091,378,63,648,108,2609,334,13,0.31,3743,23836,54
+Knowsley,340,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,32930,185,56,288,87,1173,92,8,0.34,1717,1381,7
+Liverpool,341,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,93556,365,39,1191,127,3817,235,6,0.33,4395,17946,25
+St. Helens,342,2017-18,North West,North West,Metropolitan borough council,Inadequate,36644,127,35,442,121,1569,276,18,0.26,1315,1599,6
+Sefton,343,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,53514,238,45,480,90,2165,276,13,0.21,1772,3231,8
+Wirral,344,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,67706,253,37,833,123,2913,358,12,0.24,2055,4166,8
+Bolton,350,2017-18,North West,North West,Metropolitan borough council,Good,67433,265,39,615,91,2173,130,6,0.23,2037,19285,39
+Bury,351,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,43113,199,46,333,77,1408,224,16,0.18,1907,7887,27
+Manchester,352,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,121182,982,81,1257,104,5634,330,6,0.34,4717,53256,63
+Oldham,353,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,59069,549,93,551,93,2864,314,11,0.26,1642,19741,46
+Rochdale,354,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,52128,240,46,498,96,2115,336,16,0.27,1382,13872,39
+Salford,355,2017-18,North West,North West,Metropolitan borough council,Good,55657,347,62,572,103,2230,325,15,0.28,2586,9800,28
+Stockport,356,2017-18,North West,North West,Metropolitan borough council,Good,62912,332,53,362,58,2011,242,12,0.16,2309,7300,18
+Tameside,357,2017-18,North West,North West,Metropolitan borough council,Requires improvement to be good,49645,485,98,616,124,2510,107,4,0.25,2173,8015,22
+Trafford,358,2017-18,North West,North West,Metropolitan borough council,Inadequate,55642,259,47,381,68,1502,145,10,0.14,2221,13559,33
+Wigan,359,2017-18,North West,North West,Metropolitan borough council,Good,68076,200,29,479,70,1732,241,14,0.2,1725,3943,9
+Barnsley,370,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,50185,189,38,310,62,1512,233,15,0.25,739,2827,8
+Doncaster,371,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,65867,374,57,569,86,2907,199,7,0.25,544,7355,16
+Rotherham,372,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,56947,651,114,619,109,3115,180,6,0.24,919,7881,18
+Sheffield,373,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,116703,459,39,628,54,3653,434,12,0.24,1570,28084,35
+Bradford,380,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,141606,570,40,986,70,4476,384,9,0.25,1460,56279,58
+Calderdale,381,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,46168,253,55,297,64,1454,92,6,0.21,575,9293,26
+Kirklees,382,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Requires improvement to be good,99815,352,35,674,68,2462,252,10,0.19,1070,27171,41
+Leeds,383,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Outstanding,166268,522,31,1271,76,5896,329,6,0.23,1423,41440,34
+Wakefield,384,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,71639,262,37,562,78,3327,317,10,0.22,1006,7612,15
+Gateshead,390,2017-18,North East,North East,Metropolitan borough council,Good,39780,295,74,393,99,1703,375,22,0.23,1422,3292,12
+Newcastle upon Tyne,391,2017-18,North East,North East,Metropolitan borough council,Requires improvement to be good,57544,488,85,566,98,2836,538,19,0.27,2608,12444,32
+North Tyneside,392,2017-18,North East,North East,Metropolitan borough council,Outstanding,40877,150,37,282,69,1264,165,13,0.2,2484,2670,9
+South Tyneside,393,2017-18,North East,North East,Metropolitan borough council,Good,29609,229,77,319,108,1344,180,13,0.28,2322,1802,8
+Sunderland,394,2017-18,North East,North East,Metropolitan borough council,Inadequate,54444,495,91,579,106,2899,53,2,0.26,2017,3326,8
+Isles of Scilly,420,2017-18,South West,South West,Council of the Isles of Scilly,Good,365,0,0,0,0,34,0,0,0.01,138,28,10
+Bath and North East Somerset,800,2017-18,South West,South West,Unitary,Good,35558,173,49,169,48,1055,249,24,0.12,546,3522,13
+"Bristol, City of",801,2017-18,South West,South West,Unitary,Requires improvement to be good,93960,369,39,644,69,3105,481,16,0.25,4186,21412,37
+North Somerset,802,2017-18,South West,South West,Unitary,Requires improvement to be good,43189,137,32,237,55,1199,212,18,0.15,569,3387,11
+South Gloucestershire,803,2017-18,South West,South West,Unitary,Requires improvement to be good,58166,239,41,195,34,1659,315,19,0.12,561,6393,16
+Hartlepool,805,2017-18,North East,North East,Unitary,Good,20050,169,84,278,139,1365,177,13,0.31,994,1003,7
+Middlesbrough,806,2017-18,North East,North East,Unitary,Inadequate,32396,266,82,445,137,2231,314,14,0.36,2610,6312,26
+Redcar and Cleveland,807,2017-18,North East,North East,Unitary,Requires improvement to be good,27519,156,57,284,103,1291,185,14,0.27,556,928,4
+Stockton-on-Tees,808,2017-18,North East,North East,Unitary,Requires improvement to be good,43250,216,50,468,108,2174,207,10,0.23,959,3677,12
+"Kingston Upon Hull, City of",810,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,56454,433,77,753,133,3762,469,13,0.34,3648,7632,19
+East Riding of Yorkshire,811,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,62638,203,32,312,50,1998,331,17,0.13,141,3091,7
+North East Lincolnshire,812,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,34392,265,77,354,103,2138,79,4,0.29,833,2010,9
+North Lincolnshire,813,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Outstanding,35679,129,36,227,64,1034,141,14,0.21,202,3448,14
+North Yorkshire,815,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,County,Outstanding,117596,515,44,437,37,2982,542,18,0.11,76,7194,9
+York,816,2017-18,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,36524,166,45,195,53,1397,128,9,0.12,765,2983,12
+Luton,821,2017-18,East of England,East of England,Unitary,Inadequate,57043,208,37,381,67,2249,438,20,0.24,4951,29594,79
+Bedford Borough,822,2017-18,East of England,East of England,Unitary,Requires improvement to be good,39224,153,39,239,61,1546,162,11,0.19,357,12546,45
+Central Bedfordshire,823,2017-18,East of England,East of England,Unitary,Good,61449,223,36,312,51,1356,240,18,0.14,391,7498,17
+Buckinghamshire,825,2017-18,South East,South East,County,Inadequate,123075,638,52,475,39,3714,576,16,0.1,342,28929,35
+Milton Keynes,826,2017-18,South East,South East,Unitary,Requires improvement to be good,67647,104,15,391,58,1874,364,19,0.2,867,20106,44
+Derbyshire,830,2017-18,East Midlands,East Midlands,County,Requires improvement to be good,153099,971,63,719,47,5429,1015,19,0.17,311,7344,7
+Derby,831,2017-18,East Midlands,East Midlands,Unitary,Good,59670,519,87,491,82,2836,307,11,0.25,3294,17344,41
+Dorset,835,2017-18,South West,South West,County,,76861,244,32,451,59,2410,199,8,0.13,167,4523,8
+Poole,836,2017-18,South West,South West,Unitary,0,30190,119,39,195,65,1127,165,15,0.16,2336,2830,15
+Bournemouth,837,2017-18,South West,South West,Unitary,0,35981,181,50,246,68,1094,87,8,0.19,4217,6068,26
+Durham,840,2017-18,North East,North East,Unitary,Requires improvement to be good,100540,496,49,800,80,3570,187,5,0.24,235,3705,5
+Darlington,841,2017-18,North East,North East,Unitary,Requires improvement to be good,22476,115,51,214,95,900,134,15,0.22,539,1894,12
+East Sussex,845,2017-18,South East,South East,County,Outstanding,106045,560,53,603,57,3134,440,14,0.17,323,8794,13
+Brighton and Hove,846,2017-18,South East,South East,Unitary,Good,50981,395,78,418,82,2175,199,9,0.18,3481,8410,27
+Hampshire,850,2017-18,South East,South East,County,Outstanding,283314,1294,46,1594,56,8285,1195,14,0.12,373,22835,13
+Portsmouth,851,2017-18,South East,South East,Unitary,Good,44192,286,65,415,94,1748,186,11,0.24,5316,6147,24
+Southampton,852,2017-18,South East,South East,Unitary,Requires improvement to be good,50305,324,64,522,104,2394,396,17,0.25,5056,11738,37
+Leicestershire,855,2017-18,East Midlands,East Midlands,County,Requires improvement to be good,138410,394,29,555,40,2128,294,14,0.12,331,17634,18
+Leicester,856,2017-18,East Midlands,East Midlands,Unitary,Requires improvement to be good,83778,614,73,676,81,2562,207,8,0.28,4820,40295,73
+Rutland,857,2017-18,East Midlands,East Midlands,Unitary,Requires improvement to be good,7765,19,25,30,39,232,33,14,0.08,103,442,8
+Staffordshire,860,2017-18,West Midlands,West Midlands,County,Good,168935,643,38,1101,65,6041,727,12,0.15,332,14332,12
+Stoke-on-Trent,861,2017-18,West Midlands,West Midlands,Unitary,Inadequate,57271,280,49,740,129,3200,430,13,0.29,2733,12047,31
+Wiltshire,865,2017-18,South West,South West,Unitary,Good,105597,359,34,443,42,2754,322,12,0.11,152,7944,12
+Swindon,866,2017-18,South West,South West,Unitary,Good,49924,362,73,360,72,2713,217,8,0.17,958,9649,29
+Bracknell Forest,867,2017-18,South East,South East,Unitary,Good,28071,105,37,138,49,993,88,9,0.11,1100,3895,22
+Windsor and Maidenhead,868,2017-18,South East,South East,Unitary,Good,34352,74,22,107,31,767,63,8,0.08,764,7726,36
+West Berkshire,869,2017-18,South East,South East,Unitary,Good,35790,168,47,145,41,1021,155,15,0.1,225,4252,17
+Reading,870,2017-18,South East,South East,Unitary,Requires improvement to be good,37093,290,78,278,75,1683,187,11,0.2,4037,12217,57
+Slough,871,2017-18,South East,South East,Unitary,Requires improvement to be good,42180,161,38,206,49,1223,188,15,0.2,4572,25388,85
+Wokingham,872,2017-18,South East,South East,Unitary,Requires improvement to be good,38702,126,33,106,27,969,81,8,0.07,922,8376,32
+Cambridgeshire,873,2017-18,East of England,East of England,County,Requires improvement to be good,134525,476,35,706,52,3425,509,15,0.13,213,19199,23
+Peterborough,874,2017-18,East of England,East of England,Unitary,Good,50009,228,46,369,74,1651,236,14,0.25,579,17575,49
+Halton,876,2017-18,North West,North West,Unitary,Requires improvement to be good,28408,179,63,262,92,1192,135,11,0.27,1613,1050,6
+Warrington,877,2017-18,North West,North West,Unitary,Good,44646,166,37,401,90,1248,137,11,0.15,1161,3989,13
+Devon,878,2017-18,South West,South West,County,Inadequate,144720,483,33,694,48,3983,761,19,0.14,120,7478,8
+Plymouth,879,2017-18,South West,South West,Unitary,Requires improvement to be good,52417,335,64,417,80,1980,366,19,0.23,3295,4490,12
+Torbay,880,2017-18,South West,South West,Unitary,Inadequate,25417,141,56,327,129,1159,83,7,0.24,2150,1924,10
+Essex,881,2017-18,East of England,East of England,County,Outstanding,308028,623,20,1017,33,7620,909,12,0.17,424,35186,17
+Southend-on-Sea,882,2017-18,East of England,East of England,Unitary,Requires improvement to be good,39115,116,30,291,74,1323,178,14,0.23,4354,7781,27
+Thurrock,883,2017-18,East of England,East of England,Unitary,Good,42824,226,53,308,72,1883,154,8,0.22,1042,10455,38
+Herefordshire,884,2017-18,West Midlands,West Midlands,Unitary,Requires improvement to be good,35933,197,55,313,87,1315,220,17,0.14,88,2808,12
+Worcestershire,885,2017-18,West Midlands,West Midlands,County,Requires improvement to be good,116938,424,36,793,68,3386,561,17,0.16,338,11019,14
+Kent,886,2017-18,South East,South East,County,Good,336090,1462,44,1645,49,10019,1356,14,0.18,439,46196,20
+Medway,887,2017-18,South East,South East,Unitary,Inadequate,63943,344,54,414,65,1945,322,17,0.22,1434,11495,25
+Lancashire,888,2017-18,North West,North West,County,Requires improvement to be good,247856,1245,50,1964,79,8972,1241,14,0.18,414,32964,19
+Blackburn with Darwen,889,2017-18,North West,North West,Unitary,Good,38657,280,72,377,98,1690,128,8,0.24,1086,14351,54
+Blackpool,890,2017-18,North West,North West,Unitary,Inadequate,28760,275,96,533,185,1796,139,8,0.33,4013,2213,12
+Nottinghamshire,891,2017-18,East Midlands,East Midlands,County,Good,165481,811,49,797,48,4500,236,5,0.18,392,17001,14
+Nottingham,892,2017-18,East Midlands,East Midlands,Unitary,Requires improvement to be good,67939,577,85,618,91,3018,517,17,0.35,4412,24283,54
+Shropshire,893,2017-18,West Midlands,West Midlands,Unitary,Good,59691,190,32,338,57,1207,131,11,0.13,99,3209,8
+Telford and Wrekin,894,2017-18,West Midlands,West Midlands,Unitary,Outstanding,40141,229,57,370,92,1379,227,17,0.25,605,6072,21
+Cheshire East,895,2017-18,North West,North West,Unitary,Requires improvement to be good,75834,286,38,477,63,2182,212,10,0.12,325,6081,12
+Cheshire West and Chester,896,2017-18,North West,North West,Unitary,Good,67284,215,32,496,74,2295,205,9,0.17,369,4504,9
+Cornwall,908,2017-18,South West,South West,Unitary,Outstanding,107044,385,36,465,43,3632,530,15,0.18,158,5263,7
+Cumbria,909,2017-18,North West,North West,County,Requires improvement to be good,92624,614,66,665,72,3305,333,10,0.16,74,3848,6
+Gloucestershire,916,2017-18,South West,South West,County,Inadequate,127004,653,51,657,52,3864,271,7,0.15,237,13833,16
+Hertfordshire,919,2017-18,East of England,East of England,County,Good,269296,522,19,890,33,5053,1028,20,0.13,719,57510,30
+Isle of Wight,921,2017-18,South East,South East,Unitary,Good,25055,193,77,226,90,1230,246,20,0.2,371,1237,7
+Lincolnshire,925,2017-18,East Midlands,East Midlands,County,Outstanding,144653,299,21,654,45,3449,441,13,0.18,127,14284,14
+Norfolk,926,2017-18,East of England,East of England,County,Requires improvement to be good,170025,608,36,1179,69,4789,1047,22,0.18,167,15878,14
+Northamptonshire,928,2017-18,East Midlands,East Midlands,County,Inadequate,167948,734,44,1090,65,5430,334,6,0.17,314,30216,26
+Northumberland,929,2017-18,North East,North East,Unitary,Good,58926,391,66,387,66,2692,386,14,0.19,64,2270,5
+Oxfordshire,931,2017-18,South East,South East,County,Good,143444,687,48,685,48,4293,408,10,0.12,262,22853,25
+Somerset,933,2017-18,South West,South West,County,Requires improvement to be good,110084,428,39,522,47,3193,387,12,0.15,161,7013,10
+Suffolk,935,2017-18,East of England,East of England,County,Outstanding,152903,455,30,856,56,3650,694,19,0.15,199,15921,16
+Surrey,936,2017-18,South East,South East,County,Inadequate,260305,996,38,928,36,7019,1061,15,0.1,713,38463,25
+Warwickshire,937,2017-18,West Midlands,West Midlands,County,Requires improvement to be good,114422,561,49,717,63,3892,248,6,0.14,286,15430,19
+West Sussex,938,2017-18,South East,South East,County,Inadequate,173281,775,45,704,41,7233,453,6,0.13,428,20615,19
+"Bournemouth, Christchurch and Poole",839,2017-18,South West,South West,Unitary,Not yet inspected,66171,300,45,441,67,2221,252,11,0.17,6553,8898,20
+City of London,201,2016-17,London,Inner London,City of London Corporation,Outstanding,1104,0,0,10,103,55,6,11,0.1,2495,136,77
+Camden,202,2016-17,London,Inner London,London borough,Good,47906,257,54,200,42,1756,448,26,0.27,11435,15006,77
+Greenwich,203,2016-17,London,Outer London,London borough,Good,67291,294,44,495,74,2799,485,17,0.27,5897,23906,68
+Hackney,204,2016-17,London,Inner London,London borough,Requires improvement to be good,62355,330,53,370,59,3133,317,10,0.32,14344,24524,84
+Hammersmith and Fulham,205,2016-17,London,Inner London,London borough,Good,35041,92,26,215,61,1447,217,15,0.27,11086,12839,74
+Islington,206,2016-17,London,Inner London,London borough,Outstanding,40741,205,50,340,83,2103,281,13,0.35,15620,14945,73
+Kensington and Chelsea,207,2016-17,London,Inner London,London borough,Outstanding,28374,67,24,80,28,988,105,11,0.17,12931,8330,79
+Lambeth,208,2016-17,London,Inner London,London borough,Requires improvement to be good,62422,158,25,415,66,2793,315,11,0.3,12050,26757,85
+Lewisham,209,2016-17,London,Inner London,London borough,Requires improvement to be good,67963,303,45,455,67,2681,417,16,0.3,8504,26098,77
+Southwark,210,2016-17,London,Inner London,London borough,Good,63810,326,51,500,78,2639,245,9,0.3,10798,27694,79
+Tower Hamlets,211,2016-17,London,Inner London,London borough,Good,66573,381,57,335,50,2535,85,3,0.39,15210,33627,91
+Wandsworth,212,2016-17,London,Inner London,London borough,Requires improvement to be good,62069,401,65,290,46,2268,327,14,0.21,9383,20397,74
+Westminster,213,2016-17,London,Inner London,London borough,Outstanding,44087,82,19,180,41,1698,178,11,0.29,11261,17103,86
+Barking and Dagenham,301,2016-17,London,Outer London,London borough,Requires improvement to be good,61833,294,48,410,66,2054,87,4,0.32,5766,26993,75
+Barnet,302,2016-17,London,Outer London,London borough,Good,90342,194,22,345,38,1861,262,14,0.18,4436,33903,69
+Bexley,303,2016-17,London,Outer London,London borough,Outstanding,56540,176,31,240,42,1646,310,19,0.19,4046,16189,42
+Brent,304,2016-17,London,Outer London,London borough,Good,76391,199,26,320,42,2364,201,9,0.27,7551,36418,93
+Bromley,305,2016-17,London,Outer London,London borough,Good,73281,342,47,290,39,2294,393,17,0.17,2182,16345,37
+Croydon,306,2016-17,London,Outer London,London borough,Good,94445,349,37,785,83,3708,406,11,0.23,4431,35248,71
+Ealing,307,2016-17,London,Outer London,London borough,Requires improvement to be good,81849,229,28,345,42,2337,219,9,0.23,6208,38262,85
+Enfield,308,2016-17,London,Outer London,London borough,Good,83908,223,27,325,39,2481,569,23,0.31,4109,39378,80
+Haringey,309,2016-17,London,Inner London,London borough,Requires improvement to be good,60770,238,39,445,72,2210,87,4,0.29,9192,25561,80
+Harrow,310,2016-17,London,Outer London,London borough,Good,57578,227,39,205,36,1994,227,11,0.17,4928,27381,88
+Havering,311,2016-17,London,Outer London,London borough,Good,55748,295,53,245,44,1719,256,15,0.2,2255,11384,33
+Hillingdon,312,2016-17,London,Outer London,London borough,Good,71882,301,42,310,43,2393,229,10,0.21,2592,28430,65
+Hounslow,313,2016-17,London,Outer London,London borough,Good,63272,256,41,250,39,1755,277,16,0.22,4792,28708,80
+Kingston upon Thames,314,2016-17,London,Outer London,London borough,Outstanding,38173,142,37,115,30,755,63,8,0.12,4662,11461,54
+Merton,315,2016-17,London,Outer London,London borough,Good,46739,127,27,150,33,1342,193,14,0.17,5494,16033,68
+Newham,316,2016-17,London,Inner London,London borough,Inadequate,85551,319,37,395,46,3154,360,11,0.29,9517,47710,94
+Redbridge,317,2016-17,London,Outer London,London borough,Outstanding,76031,378,50,230,30,2246,459,20,0.19,5341,41867,86
+Richmond upon Thames,318,2016-17,London,Outer London,London borough,Good,44864,111,25,105,24,836,92,11,0.09,3400,9127,40
+Sutton,319,2016-17,London,Outer London,London borough,Good,46848,231,49,230,49,1731,449,26,0.16,4606,16423,50
+Waltham Forest,320,2016-17,London,Outer London,London borough,Good,65996,226,34,280,42,2298,222,10,0.27,7066,29634,83
+Birmingham,330,2016-17,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,286450,983,34,1840,64,8414,1160,14,0.31,4213,117872,69
+Coventry,331,2016-17,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,76587,510,67,620,81,3574,327,9,0.25,3581,23139,49
+Dudley,332,2016-17,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,68161,437,64,675,99,2551,466,18,0.22,3242,9630,24
+Sandwell,333,2016-17,West Midlands,West Midlands,Metropolitan borough council,Inadequate,79948,428,54,610,76,2500,158,6,0.3,3771,26663,55
+Solihull,334,2016-17,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,46072,182,40,385,83,1399,258,18,0.16,1190,8383,25
+Walsall,335,2016-17,West Midlands,West Midlands,Metropolitan borough council,Requires improvement to be good,66231,333,50,650,98,2591,226,9,0.28,2682,16278,39
+Wolverhampton,336,2016-17,West Midlands,West Midlands,Metropolitan borough council,Good,59285,292,49,640,108,3007,331,11,0.31,3716,19452,53
+Knowsley,340,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,32728,219,67,290,89,1230,93,8,0.34,1711,1007,6
+Liverpool,341,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,92234,375,41,1120,122,3496,183,5,0.33,4360,14157,23
+St. Helens,342,2016-17,North West,North West,Metropolitan borough council,Inadequate,36367,230,63,425,117,1859,296,16,0.26,1309,1223,5
+Sefton,343,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,53363,235,44,455,85,1861,280,15,0.21,1773,2671,8
+Wirral,344,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,67710,377,56,765,113,2862,386,14,0.24,2052,3556,8
+Bolton,350,2016-17,North West,North West,Metropolitan borough council,Good,66745,222,33,580,87,2286,157,7,0.23,2028,15376,36
+Bury,351,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,42828,160,37,350,82,1526,284,19,0.18,1895,6655,26
+Manchester,352,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,120048,942,79,1165,97,5170,352,7,0.34,4681,42721,62
+Oldham,353,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,58876,316,54,495,84,2550,164,6,0.26,1632,16294,44
+Rochdale,354,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,51441,153,30,460,89,1787,372,21,0.27,1368,11280,38
+Salford,355,2016-17,North West,North West,Metropolitan borough council,Good,54870,424,77,520,95,2401,325,14,0.28,2553,7673,26
+Stockport,356,2016-17,North West,North West,Metropolitan borough council,Good,62369,239,38,330,53,1843,248,14,0.16,2299,5985,17
+Tameside,357,2016-17,North West,North West,Metropolitan borough council,Requires improvement to be good,49402,374,76,515,105,2761,97,4,0.25,2163,6592,21
+Trafford,358,2016-17,North West,North West,Metropolitan borough council,Inadequate,55006,258,47,385,70,1470,139,10,0.14,2209,11032,31
+Wigan,359,2016-17,North West,North West,Metropolitan borough council,Good,67933,260,38,445,66,2103,226,11,0.2,1719,3120,8
+Barnsley,370,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,49857,256,51,290,58,1550,275,18,0.25,735,2227,8
+Doncaster,371,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,65598,427,65,510,78,2646,174,7,0.25,541,5927,15
+Rotherham,372,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,56610,367,65,485,86,2611,134,5,0.24,915,6548,17
+Sheffield,373,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,116295,449,39,585,50,4308,625,15,0.24,1560,23027,34
+Bradford,380,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,140973,559,40,925,66,3975,381,10,0.25,1453,47616,57
+Calderdale,381,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Good,46097,251,55,315,69,1380,103,8,0.21,574,7925,25
+Kirklees,382,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Requires improvement to be good,99134,437,44,700,70,3227,382,12,0.19,1065,22989,39
+Leeds,383,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Outstanding,164819,515,31,1255,76,6083,418,7,0.23,1416,33130,32
+Wakefield,384,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Metropolitan borough council,Inadequate,70499,156,22,520,74,2343,292,13,0.22,995,5842,13
+Gateshead,390,2016-17,North East,North East,Metropolitan borough council,Good,40030,313,78,380,95,1742,322,19,0.23,1423,2549,10
+Newcastle upon Tyne,391,2016-17,North East,North East,Metropolitan borough council,Requires improvement to be good,56899,392,69,535,94,2594,535,21,0.27,2589,10146,30
+North Tyneside,392,2016-17,North East,North East,Metropolitan borough council,Outstanding,40595,146,36,295,73,1351,164,12,0.2,2473,2129,8
+South Tyneside,393,2016-17,North East,North East,Metropolitan borough council,Good,29498,173,59,275,93,1214,187,15,0.28,2317,1479,8
+Sunderland,394,2016-17,North East,North East,Metropolitan borough council,Inadequate,54255,423,78,540,100,2704,177,7,0.26,2018,2689,8
+Isles of Scilly,420,2016-17,South West,South West,Council of the Isles of Scilly,Good,382,0,0,0,0,32,0,0,0.01,143,28,13
+Bath and North East Somerset,800,2016-17,South West,South West,Unitary,Good,35193,131,37,160,46,1037,236,23,0.12,540,3046,13
+"Bristol, City of",801,2016-17,South West,South West,Unitary,Requires improvement to be good,93694,494,53,685,73,3600,610,17,0.25,4156,17946,36
+North Somerset,802,2016-17,South West,South West,Unitary,Requires improvement to be good,43082,150,35,225,52,1298,210,16,0.15,567,2828,11
+South Gloucestershire,803,2016-17,South West,South West,Unitary,Requires improvement to be good,57715,182,32,180,31,1509,352,23,0.12,557,5391,15
+Hartlepool,805,2016-17,North East,North East,Unitary,Good,19986,152,76,255,129,1319,137,10,0.31,992,778,6
+Middlesbrough,806,2016-17,North East,North East,Unitary,Inadequate,32175,276,86,440,137,2074,320,15,0.36,2604,4914,25
+Redcar and Cleveland,807,2016-17,North East,North East,Unitary,Requires improvement to be good,27346,200,73,235,86,1259,187,15,0.27,553,723,4
+Stockton-on-Tees,808,2016-17,North East,North East,Unitary,Requires improvement to be good,43012,308,72,435,101,2063,190,9,0.23,956,2866,11
+"Kingston Upon Hull, City of",810,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,56001,412,74,695,124,3507,526,15,0.34,3639,5986,18
+East Riding of Yorkshire,811,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Inadequate,62763,214,34,285,46,1894,310,16,0.13,140,2560,6
+North East Lincolnshire,812,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,34261,202,59,295,87,1975,86,4,0.29,833,1530,8
+North Lincolnshire,813,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Outstanding,35401,111,31,225,64,903,129,14,0.21,202,2807,13
+North Yorkshire,815,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,County,Outstanding,117453,426,36,425,36,2553,500,20,0.11,76,6079,8
+York,816,2016-17,Yorkshire and the Humber,Yorkshire and the Humber,Unitary,Good,36639,171,47,205,56,1248,90,7,0.12,761,2503,11
+Luton,821,2016-17,East of England,East of England,Unitary,Inadequate,56881,222,39,365,64,2125,434,20,0.24,4980,25658,78
+Bedford Borough,822,2016-17,East of England,East of England,Unitary,Requires improvement to be good,38692,196,51,265,69,1417,158,11,0.19,354,10544,43
+Central Bedfordshire,823,2016-17,East of England,East of England,Unitary,Good,60670,161,27,305,50,1344,247,18,0.14,387,5919,16
+Buckinghamshire,825,2016-17,South East,South East,County,Inadequate,122367,553,45,455,37,3306,518,16,0.1,341,24426,33
+Milton Keynes,826,2016-17,South East,South East,Unitary,Requires improvement to be good,67345,90,13,395,59,2024,348,17,0.2,863,16926,42
+Derbyshire,830,2016-17,East Midlands,East Midlands,County,Requires improvement to be good,153059,914,60,630,41,5148,987,19,0.17,309,6139,7
+Derby,831,2016-17,East Midlands,East Midlands,Unitary,Good,59312,368,62,450,75,2742,285,10,0.25,3283,14531,40
+Dorset,835,2016-17,South West,South West,County,,77157,415,54,485,63,2364,222,9,0.13,166,3864,8
+Poole,836,2016-17,South West,South West,Unitary,0,30180,80,27,190,64,974,175,18,0.16,2327,2347,14
+Bournemouth,837,2016-17,South West,South West,Unitary,0,35312,134,38,240,67,857,94,11,0.19,4194,5245,25
+Durham,840,2016-17,North East,North East,Unitary,Requires improvement to be good,100271,498,50,815,81,4097,355,9,0.24,234,2981,5
+Darlington,841,2016-17,North East,North East,Unitary,Requires improvement to be good,22581,69,31,220,97,838,155,19,0.22,538,1525,11
+East Sussex,845,2016-17,South East,South East,County,Outstanding,106045,475,45,560,53,3140,459,15,0.17,322,7555,13
+Brighton and Hove,846,2016-17,South East,South East,Unitary,Good,51152,367,72,455,89,2166,254,12,0.18,3469,7063,25
+Hampshire,850,2016-17,South East,South East,County,Outstanding,283036,1263,45,1440,51,8713,1431,16,0.12,371,19162,12
+Portsmouth,851,2016-17,South East,South East,Unitary,Good,43990,242,55,360,81,1432,125,9,0.24,5282,5007,23
+Southampton,852,2016-17,South East,South East,Unitary,Requires improvement to be good,49828,276,55,540,108,2287,369,16,0.25,5016,9591,35
+Leicestershire,855,2016-17,East Midlands,East Midlands,County,Requires improvement to be good,136857,428,31,510,37,3041,440,15,0.12,327,15455,18
+Leicester,856,2016-17,East Midlands,East Midlands,Unitary,Requires improvement to be good,83355,397,48,695,83,2255,123,6,0.28,4766,33502,72
+Rutland,857,2016-17,East Midlands,East Midlands,Unitary,Requires improvement to be good,7734,20,26,40,50,240,25,10,0.08,102,377,7
+Staffordshire,860,2016-17,West Midlands,West Midlands,County,Good,168699,540,32,995,59,5418,807,15,0.15,331,12217,11
+Stoke-on-Trent,861,2016-17,West Midlands,West Midlands,Unitary,Inadequate,56748,411,72,655,115,3752,456,12,0.29,2714,9486,29
+Wiltshire,865,2016-17,South West,South West,Unitary,Good,105284,396,38,440,42,2699,380,14,0.11,151,6766,11
+Swindon,866,2016-17,South West,South West,Unitary,Good,49478,244,49,325,66,1919,114,6,0.17,950,7629,26
+Bracknell Forest,867,2016-17,South East,South East,Unitary,Good,28174,176,63,115,41,973,100,10,0.11,1095,3276,21
+Windsor and Maidenhead,868,2016-17,South East,South East,Unitary,Good,34246,141,41,110,32,959,105,11,0.08,762,6562,35
+West Berkshire,869,2016-17,South East,South East,Unitary,Good,36045,155,43,160,45,984,100,10,0.1,225,3639,16
+Reading,870,2016-17,South East,South East,Unitary,Requires improvement to be good,36656,349,95,260,72,1781,98,6,0.2,4027,9978,55
+Slough,871,2016-17,South East,South East,Unitary,Requires improvement to be good,41429,153,37,190,46,1212,197,16,0.2,4540,21339,84
+Wokingham,872,2016-17,South East,South East,Unitary,Requires improvement to be good,38167,46,12,75,20,667,51,8,0.07,911,6902,30
+Cambridgeshire,873,2016-17,East of England,East of England,County,Requires improvement to be good,133720,560,42,690,51,3266,401,12,0.13,212,15964,22
+Peterborough,874,2016-17,East of England,East of England,Unitary,Good,48915,249,51,355,73,1772,232,13,0.25,573,15357,47
+Halton,876,2016-17,North West,North West,Unitary,Requires improvement to be good,28359,135,48,265,94,1080,131,12,0.27,1610,869,5
+Warrington,877,2016-17,North West,North West,Unitary,Good,44648,232,52,380,85,1460,173,12,0.15,1157,3150,11
+Devon,878,2016-17,South West,South West,County,Inadequate,143543,442,31,680,48,3842,914,24,0.14,119,6254,7
+Plymouth,879,2016-17,South West,South West,Unitary,Requires improvement to be good,52254,301,58,390,75,2194,392,18,0.23,3286,3780,11
+Torbay,880,2016-17,South West,South West,Unitary,Inadequate,25374,212,84,285,112,1196,37,3,0.24,2137,1604,9
+Essex,881,2016-17,East of England,East of England,County,Outstanding,305817,535,18,1010,33,6769,974,14,0.17,421,29516,16
+Southend-on-Sea,882,2016-17,East of England,East of England,Unitary,Requires improvement to be good,38781,220,57,280,73,1387,198,14,0.23,4325,6616,26
+Thurrock,883,2016-17,East of England,East of England,Unitary,Good,42030,285,68,345,82,1788,179,10,0.22,1030,8141,35
+Herefordshire,884,2016-17,West Midlands,West Midlands,Unitary,Requires improvement to be good,35895,115,32,300,84,1097,184,17,0.14,87,2285,11
+Worcestershire,885,2016-17,West Midlands,West Midlands,County,Requires improvement to be good,116054,517,45,765,66,4067,547,13,0.16,335,9206,13
+Kent,886,2016-17,South East,South East,County,Good,332979,1185,36,1900,57,10005,1358,14,0.18,435,39040,19
+Medway,887,2016-17,South East,South East,Unitary,Inadequate,63624,313,49,390,61,1776,308,17,0.22,1431,9555,24
+Lancashire,888,2016-17,North West,North West,County,Requires improvement to be good,246552,1406,57,1850,75,8250,1293,16,0.18,412,28032,19
+Blackburn with Darwen,889,2016-17,North West,North West,Unitary,Good,38480,315,82,370,96,1781,133,8,0.24,1083,12420,53
+Blackpool,890,2016-17,North West,North West,Unitary,Inadequate,28660,364,127,525,184,1901,120,6,0.33,4017,1794,11
+Nottinghamshire,891,2016-17,East Midlands,East Midlands,County,Good,164126,859,52,775,47,4319,246,6,0.18,389,13761,14
+Nottingham,892,2016-17,East Midlands,East Midlands,Unitary,Requires improvement to be good,67073,481,72,615,92,3239,678,21,0.35,4353,19553,53
+Shropshire,893,2016-17,West Midlands,West Midlands,Unitary,Good,59461,240,40,290,49,1181,151,13,0.13,98,2565,8
+Telford and Wrekin,894,2016-17,West Midlands,West Midlands,Unitary,Outstanding,39488,337,85,380,96,1519,185,12,0.25,598,4774,19
+Cheshire East,895,2016-17,North West,North West,Unitary,Requires improvement to be good,75472,275,36,430,57,1974,177,9,0.12,323,5053,11
+Cheshire West and Chester,896,2016-17,North West,North West,Unitary,Good,66586,251,38,485,73,2256,271,12,0.17,366,3629,8
+Cornwall,908,2016-17,South West,South West,Unitary,Outstanding,106179,381,36,415,39,2924,387,13,0.18,157,4037,6
+Cumbria,909,2016-17,North West,North West,County,Requires improvement to be good,92763,523,56,625,68,3104,361,12,0.16,74,3156,5
+Gloucestershire,916,2016-17,South West,South West,County,Inadequate,126254,453,36,610,48,3804,265,7,0.15,235,11935,15
+Hertfordshire,919,2016-17,East of England,East of England,County,Good,267176,533,20,905,34,5157,1019,20,0.13,716,47909,29
+Isle of Wight,921,2016-17,South East,South East,Unitary,Good,25218,199,79,225,90,1247,183,15,0.2,369,1093,7
+Lincolnshire,925,2016-17,East Midlands,East Midlands,County,Outstanding,143757,370,26,690,48,4293,454,11,0.18,125,12027,13
+Norfolk,926,2016-17,East of England,East of England,County,Requires improvement to be good,169052,581,34,1105,65,4794,1012,21,0.18,166,13259,13
+Northamptonshire,928,2016-17,East Midlands,East Midlands,County,Inadequate,165388,912,55,1005,61,5091,317,6,0.17,310,24882,25
+Northumberland,929,2016-17,North East,North East,Unitary,Good,58995,234,40,405,69,2485,350,14,0.19,63,1912,5
+Oxfordshire,931,2016-17,South East,South East,County,Good,142798,609,43,665,47,4808,514,11,0.12,260,19423,24
+Somerset,933,2016-17,South West,South West,County,Requires improvement to be good,109817,413,38,475,43,3109,479,15,0.15,160,5878,10
+Suffolk,935,2016-17,East of England,East of England,County,Outstanding,152036,436,29,830,55,3501,660,19,0.15,198,13327,15
+Surrey,936,2016-17,South East,South East,County,Inadequate,259248,843,33,870,34,6125,1071,18,0.1,710,31853,24
+Warwickshire,937,2016-17,West Midlands,West Midlands,County,Requires improvement to be good,113271,439,39,700,62,3741,531,14,0.14,283,12670,18
+West Sussex,938,2016-17,South East,South East,County,Inadequate,171991,549,32,665,39,4548,446,10,0.13,425,17837,18
+"Bournemouth, Christchurch and Poole",839,2016-17,South West,South West,Unitary,Not yet inspected,65492,214,32,430,66,1831,269,15,0.17,6521,7592,19
+City of London,201,2015-16,,,City of London Corporation,Outstanding,1018,0,0,10,101,43,0,0,0.1,2303,138,78
+Camden,202,2015-16,,,London borough,Good,46242,255,55,190,41,1727,455,26,0.27,11191,14706,77
+Greenwich,203,2015-16,,,London borough,Good,66010,272,41,520,78,2401,239,10,0.27,5800,22708,67
+Hackney,204,2015-16,,,London borough,Requires improvement to be good,61120,226,37,330,54,2821,279,10,0.32,14102,24174,84
+Hammersmith and Fulham,205,2015-16,,,London borough,Good,34398,105,31,200,58,1511,228,15,0.27,11110,12341,73
+Islington,206,2015-16,,,London borough,Outstanding,40109,161,40,355,88,2459,297,12,0.35,15314,14847,73
+Kensington and Chelsea,207,2015-16,,,London borough,Outstanding,28328,66,23,105,37,946,82,9,0.17,13081,8146,78
+Lambeth,208,2015-16,,,London borough,Requires improvement to be good,62418,297,48,460,73,2729,276,10,0.3,11963,26261,86
+Lewisham,209,2015-16,,,London borough,Requires improvement to be good,67332,337,50,460,68,2622,422,16,0.3,8393,26088,77
+Southwark,210,2015-16,,,London borough,Good,62902,284,45,475,76,3317,328,10,0.3,10686,27171,79
+Tower Hamlets,211,2015-16,,,London borough,Good,64797,298,46,305,47,2897,139,5,0.39,14850,33096,91
+Wandsworth,212,2015-16,,,London borough,Requires improvement to be good,61036,285,47,250,41,2186,279,13,0.21,9324,19989,73
+Westminster,213,2015-16,,,London borough,Outstanding,42610,89,21,170,39,2260,289,13,0.29,11079,16940,86
+Barking and Dagenham,301,2015-16,,,London borough,Requires improvement to be good,60281,253,42,415,69,2065,131,6,0.32,5625,25538,73
+Barnet,302,2015-16,,,London borough,Good,88754,267,30,315,35,2115,267,13,0.18,4366,32874,69
+Bexley,303,2015-16,,,London borough,Outstanding,56028,163,29,260,46,1521,286,19,0.19,4001,15283,40
+Brent,304,2015-16,,,London borough,Good,75033,198,26,335,45,1902,127,7,0.27,7481,36238,93
+Bromley,305,2015-16,,,London borough,Good,72176,230,32,285,40,1738,397,23,0.17,2167,15388,35
+Croydon,306,2015-16,,,London borough,Good,93166,360,39,805,86,3980,380,10,0.23,4394,34495,70
+Ealing,307,2015-16,,,London borough,Requires improvement to be good,81217,296,36,370,46,2418,184,8,0.23,6198,37389,84
+Enfield,308,2015-16,,,London borough,Good,83274,236,28,355,43,2470,553,22,0.31,4067,38389,79
+Haringey,309,2015-16,,,London borough,Requires improvement to be good,60298,182,30,405,67,1815,153,8,0.29,9063,25272,80
+Harrow,310,2015-16,,,London borough,Good,57186,195,34,180,32,1827,209,11,0.17,4891,26477,87
+Havering,311,2015-16,,,London borough,Good,54279,302,56,230,42,1374,279,20,0.2,2220,10741,32
+Hillingdon,312,2015-16,,,London borough,Good,70644,341,48,340,48,2301,180,8,0.21,2559,26960,63
+Hounslow,313,2015-16,,,London borough,Good,62349,214,34,280,45,1887,273,15,0.22,4759,27807,79
+Kingston upon Thames,314,2015-16,,,London borough,Outstanding,37534,142,38,110,29,843,57,7,0.12,4606,11111,53
+Merton,315,2015-16,,,London borough,Good,46260,138,30,165,35,1901,233,12,0.17,5474,15729,68
+Newham,316,2015-16,,,London borough,Inadequate,83982,346,41,350,42,3420,388,11,0.29,9288,46293,94
+Redbridge,317,2015-16,,,London borough,Outstanding,75418,341,45,215,28,2515,465,19,0.19,5281,40507,85
+Richmond upon Thames,318,2015-16,,,London borough,Good,44364,117,26,115,26,880,112,13,0.09,3382,8613,39
+Sutton,319,2015-16,,,London borough,Good,46142,163,35,230,50,2211,109,5,0.16,4558,15210,48
+Waltham Forest,320,2015-16,,,London borough,Good,65030,249,38,280,43,2242,159,7,0.27,6975,29075,82
+Birmingham,330,2015-16,,,Metropolitan borough council,Requires improvement to be good,284011,845,30,1815,64,9092,1251,14,0.31,4156,112901,68
+Coventry,331,2015-16,,,Metropolitan borough council,Requires improvement to be good,75119,494,66,580,77,3615,335,9,0.25,3490,21795,47
+Dudley,332,2015-16,,,Metropolitan borough council,Requires improvement to be good,68018,349,51,725,107,3324,528,16,0.22,3229,9164,23
+Sandwell,333,2015-16,,,Metropolitan borough council,Inadequate,78722,356,45,530,68,2356,147,6,0.3,3730,25049,53
+Solihull,334,2015-16,,,Metropolitan borough council,Requires improvement to be good,45640,203,45,360,79,1284,235,18,0.16,1183,7790,24
+Walsall,335,2015-16,,,Metropolitan borough council,Requires improvement to be good,65073,375,58,625,96,2662,242,9,0.28,2653,15378,37
+Wolverhampton,336,2015-16,,,Metropolitan borough council,Good,58317,152,26,655,112,2341,380,16,0.31,3674,17584,51
+Knowsley,340,2015-16,,,Metropolitan borough council,Requires improvement to be good,32497,208,64,290,89,1492,159,11,0.34,1702,952,6
+Liverpool,341,2015-16,,,Metropolitan borough council,Requires improvement to be good,91116,430,47,1040,114,4129,107,3,0.33,4300,13207,22
+St. Helens,342,2015-16,,,Metropolitan borough council,Inadequate,36266,287,79,410,113,1799,291,16,0.26,1302,1060,5
+Sefton,343,2015-16,,,Metropolitan borough council,Requires improvement to be good,53184,255,48,465,87,1925,310,16,0.21,1768,2389,7
+Wirral,344,2015-16,,,Metropolitan borough council,Requires improvement to be good,67554,404,60,665,99,2682,298,11,0.24,2048,3313,8
+Bolton,350,2015-16,,,Metropolitan borough council,Good,66123,221,33,560,85,2465,163,7,0.23,2016,14336,35
+Bury,351,2015-16,,,Metropolitan borough council,Requires improvement to be good,42623,252,59,305,72,1705,194,11,0.18,1888,6179,25
+Manchester,352,2015-16,,,Metropolitan borough council,Requires improvement to be good,117425,840,72,1250,107,4962,339,7,0.34,4581,40060,61
+Oldham,353,2015-16,,,Metropolitan borough council,Requires improvement to be good,58295,329,56,420,72,1877,172,9,0.26,1617,15450,43
+Rochdale,354,2015-16,,,Metropolitan borough council,Requires improvement to be good,50836,226,45,480,95,1797,357,20,0.27,1355,10676,36
+Salford,355,2015-16,,,Metropolitan borough council,Good,53813,483,90,555,103,2306,358,16,0.28,2523,7122,25
+Stockport,356,2015-16,,,Metropolitan borough council,Good,61831,190,31,295,47,1974,265,13,0.16,2286,5663,17
+Tameside,357,2015-16,,,Metropolitan borough council,Requires improvement to be good,48980,220,45,430,87,1345,91,7,0.25,2147,6183,21
+Trafford,358,2015-16,,,Metropolitan borough council,Inadequate,54179,315,58,330,61,1531,113,7,0.14,2197,10057,30
+Wigan,359,2015-16,,,Metropolitan borough council,Good,67610,272,40,485,72,2019,193,10,0.2,1713,2801,7
+Barnsley,370,2015-16,,,Metropolitan borough council,Good,49642,409,82,280,56,1628,291,18,0.25,729,2048,7
+Doncaster,371,2015-16,,,Metropolitan borough council,Good,65333,399,61,485,74,2490,173,7,0.25,538,5571,14
+Rotherham,372,2015-16,,,Metropolitan borough council,Good,56366,368,65,430,76,2222,237,11,0.24,911,6034,16
+Sheffield,373,2015-16,,,Metropolitan borough council,Good,115877,363,31,530,46,4170,697,17,0.24,1547,21693,32
+Bradford,380,2015-16,,,Metropolitan borough council,Inadequate,139867,511,37,845,60,3848,404,11,0.25,1446,46636,56
+Calderdale,381,2015-16,,,Metropolitan borough council,Good,45761,188,41,300,65,1381,105,8,0.21,571,7456,24
+Kirklees,382,2015-16,,,Metropolitan borough council,Requires improvement to be good,98730,415,42,655,66,2522,351,14,0.19,1059,22164,39
+Leeds,383,2015-16,,,Metropolitan borough council,Outstanding,162588,564,35,1240,76,5711,464,8,0.23,1401,30940,31
+Wakefield,384,2015-16,,,Metropolitan borough council,Inadequate,69654,189,27,480,69,2243,99,4,0.22,986,5537,13
+Gateshead,390,2015-16,,,Metropolitan borough council,Good,39840,271,68,345,86,1660,260,16,0.23,1417,2285,9
+Newcastle upon Tyne,391,2015-16,,,Metropolitan borough council,Requires improvement to be good,56497,424,75,500,88,2360,492,21,0.27,2563,9354,29
+North Tyneside,392,2015-16,,,Metropolitan borough council,Outstanding,40407,179,44,290,72,1462,168,12,0.2,2463,2021,8
+South Tyneside,393,2015-16,,,Metropolitan borough council,Good,29194,182,62,290,100,1367,197,14,0.28,2306,1375,8
+Sunderland,394,2015-16,,,Metropolitan borough council,Inadequate,54332,420,77,545,101,2493,177,7,0.26,2014,2571,8
+Isles of Scilly,420,2015-16,,,Council of the Isles of Scilly,Good,386,0,0,0,0,23,0,0,0.01,143,44,19
+Bath and North East Somerset,800,2015-16,,,Unitary,Good,34738,147,42,145,42,1081,267,25,0.12,533,2836,12
+"Bristol, City of",801,2015-16,,,Unitary,Requires improvement to be good,92782,482,52,675,73,3362,647,19,0.25,4108,17057,36
+North Somerset,802,2015-16,,,Unitary,Requires improvement to be good,42610,128,30,220,52,1354,237,18,0.15,562,2586,10
+South Gloucestershire,803,2015-16,,,Unitary,Requires improvement to be good,57449,173,30,165,29,1721,296,17,0.12,551,4954,14
+Hartlepool,805,2015-16,,,Unitary,Good,19823,127,64,205,104,1053,144,14,0.31,989,701,6
+Middlesbrough,806,2015-16,,,Unitary,Inadequate,31948,250,78,375,118,2130,306,14,0.36,2585,4664,25
+Redcar and Cleveland,807,2015-16,,,Unitary,Requires improvement to be good,27375,147,54,200,73,1081,156,14,0.27,553,739,4
+Stockton-on-Tees,808,2015-16,,,Unitary,Requires improvement to be good,42784,284,66,375,88,2195,186,9,0.23,952,2677,11
+"Kingston Upon Hull, City of",810,2015-16,,,Unitary,Inadequate,55521,374,67,645,116,3307,520,16,0.34,3619,5446,17
+East Riding of Yorkshire,811,2015-16,,,Unitary,Inadequate,62735,216,34,260,41,1953,262,13,0.13,140,2413,6
+North East Lincolnshire,812,2015-16,,,Unitary,Good,34221,221,65,295,86,2029,168,8,0.29,834,1396,7
+North Lincolnshire,813,2015-16,,,Unitary,Outstanding,35296,153,43,200,57,1120,133,12,0.21,201,2649,13
+North Yorkshire,815,2015-16,,,County,Outstanding,117258,277,24,410,35,2481,519,21,0.11,75,5638,8
+York,816,2015-16,,,Unitary,Good,36671,135,37,190,52,986,150,15,0.12,757,2297,11
+Luton,821,2015-16,,,Unitary,Inadequate,56035,189,34,380,67,1964,426,22,0.24,4927,24743,76
+Bedford Borough,822,2015-16,,,Unitary,Requires improvement to be good,37970,159,42,260,68,1301,172,13,0.19,349,9961,42
+Central Bedfordshire,823,2015-16,,,Unitary,Good,59542,225,38,285,48,1518,254,17,0.14,381,5464,15
+Buckinghamshire,825,2015-16,,,County,Inadequate,120726,454,38,460,38,2635,520,20,0.1,337,23040,32
+Milton Keynes,826,2015-16,,,Unitary,Requires improvement to be good,66280,92,14,345,52,1726,266,15,0.2,853,15824,40
+Derbyshire,830,2015-16,,,County,Requires improvement to be good,153445,738,48,585,38,4874,861,18,0.17,307,5798,6
+Derby,831,2015-16,,,Unitary,Good,58724,314,54,450,76,2342,308,13,0.25,3254,13713,39
+Dorset,835,2015-16,,,County,,77154,409,53,475,62,2609,236,9,0.13,166,3729,7
+Poole,836,2015-16,,,Unitary,0,29786,142,48,180,60,1140,219,19,0.16,2316,2140,12
+Bournemouth,837,2015-16,,,Unitary,0,34813,148,43,255,73,1396,112,8,0.19,4151,4807,24
+Durham,840,2015-16,,,Unitary,Requires improvement to be good,100233,350,35,675,68,3523,377,11,0.24,233,2738,4
+Darlington,841,2015-16,,,Unitary,Requires improvement to be good,22674,131,58,205,91,927,112,12,0.22,537,1395,10
+East Sussex,845,2015-16,,,County,Outstanding,105922,456,43,545,51,2999,598,20,0.17,319,7112,12
+Brighton and Hove,846,2015-16,,,Unitary,Good,51142,392,77,440,85,2347,272,12,0.18,3431,7076,25
+Hampshire,850,2015-16,,,County,Outstanding,282110,1441,51,1305,46,8732,1448,17,0.12,369,17766,12
+Portsmouth,851,2015-16,,,Unitary,Good,43756,275,63,320,74,1331,147,11,0.24,5212,4697,22
+Southampton,852,2015-16,,,Unitary,Requires improvement to be good,49055,333,68,590,120,3444,275,8,0.25,4930,8910,34
+Leicestershire,855,2015-16,,,County,Requires improvement to be good,135552,345,26,470,35,2266,403,18,0.12,323,14414,17
+Leicester,856,2015-16,,,Unitary,Requires improvement to be good,81977,518,63,645,79,2636,221,8,0.28,4691,31768,71
+Rutland,857,2015-16,,,Unitary,Requires improvement to be good,7740,27,35,40,52,260,30,12,0.08,100,378,7
+Staffordshire,860,2015-16,,,County,Good,168819,705,42,980,58,5804,817,14,0.15,329,11188,11
+Stoke-on-Trent,861,2015-16,,,Unitary,Inadequate,56132,350,62,655,117,3340,414,12,0.29,2694,8734,28
+Wiltshire,865,2015-16,,,Unitary,Good,104133,381,37,415,40,2916,382,13,0.11,150,6277,10
+Swindon,866,2015-16,,,Unitary,Good,49056,238,49,295,60,1967,217,11,0.17,946,7056,25
+Bracknell Forest,867,2015-16,,,Unitary,Good,28139,115,41,100,35,839,89,11,0.11,1090,3110,20
+Windsor and Maidenhead,868,2015-16,,,Unitary,Good,33797,145,43,90,26,1013,230,23,0.08,755,6125,33
+West Berkshire,869,2015-16,,,Unitary,Good,35796,145,41,155,44,1054,107,10,0.1,224,3361,15
+Reading,870,2015-16,,,Unitary,Requires improvement to be good,36426,252,69,220,60,1869,147,8,0.2,4003,9329,53
+Slough,871,2015-16,,,Unitary,Requires improvement to be good,40559,230,57,180,44,1601,190,12,0.2,4488,20299,83
+Wokingham,872,2015-16,,,Unitary,Requires improvement to be good,37353,65,17,80,22,563,112,20,0.07,901,6509,29
+Cambridgeshire,873,2015-16,,,County,Requires improvement to be good,132680,438,33,605,46,3016,143,5,0.13,211,15090,21
+Peterborough,874,2015-16,,,Unitary,Good,47640,257,54,360,75,1770,239,14,0.25,564,14591,46
+Halton,876,2015-16,,,Unitary,Requires improvement to be good,28279,143,51,240,85,1177,144,12,0.27,1602,771,5
+Warrington,877,2015-16,,,Unitary,Good,44468,276,62,345,78,1341,175,13,0.15,1150,3016,11
+Devon,878,2015-16,,,County,Inadequate,142591,714,50,710,50,4668,1035,22,0.14,118,5866,7
+Plymouth,879,2015-16,,,Unitary,Requires improvement to be good,51868,347,67,405,78,2108,398,19,0.23,3274,3560,11
+Torbay,880,2015-16,,,Unitary,Inadequate,25262,130,52,280,111,1179,47,4,0.24,2127,1487,9
+Essex,881,2015-16,,,County,Outstanding,302994,582,19,1005,33,6229,1148,18,0.17,417,27211,15
+Southend-on-Sea,882,2015-16,,,Unitary,Requires improvement to be good,38427,189,49,260,68,964,172,18,0.23,4292,6121,24
+Thurrock,883,2015-16,,,Unitary,Good,40999,291,71,335,81,1834,183,10,0.22,1016,7475,33
+Herefordshire,884,2015-16,,,Unitary,Requires improvement to be good,36059,228,63,285,79,1652,47,3,0.14,86,2147,10
+Worcestershire,885,2015-16,,,County,Requires improvement to be good,115223,473,41,695,60,3767,512,14,0.16,333,8563,12
+Kent,886,2015-16,,,County,Good,330334,1049,32,2315,70,9290,1369,15,0.18,430,36265,18
+Medway,887,2015-16,,,Unitary,Inadequate,63103,539,85,430,68,2618,477,18,0.22,1422,9033,23
+Lancashire,888,2015-16,,,County,Requires improvement to be good,245325,1460,60,1660,68,10071,684,7,0.18,409,26605,18
+Blackburn with Darwen,889,2015-16,,,Unitary,Good,38285,212,55,345,90,1488,143,10,0.24,1079,11984,52
+Blackpool,890,2015-16,,,Unitary,Inadequate,28724,364,127,470,164,1889,112,6,0.33,4022,1629,10
+Nottinghamshire,891,2015-16,,,County,Good,163263,700,43,815,50,4409,298,7,0.18,387,12814,13
+Nottingham,892,2015-16,,,Unitary,Requires improvement to be good,65906,545,83,595,90,3600,614,17,0.35,4275,18382,51
+Shropshire,893,2015-16,,,Unitary,Good,59352,266,45,285,48,1614,191,12,0.13,98,2413,7
+Telford and Wrekin,894,2015-16,,,Unitary,Outstanding,39208,190,49,300,76,1261,168,13,0.25,591,4331,18
+Cheshire East,895,2015-16,,,Unitary,Requires improvement to be good,74987,279,37,390,52,2183,139,6,0.12,322,4774,10
+Cheshire West and Chester,896,2015-16,,,Unitary,Good,66246,321,49,460,70,2181,292,13,0.17,364,3358,8
+Cornwall,908,2015-16,,,Unitary,Outstanding,105465,405,38,430,41,2938,612,21,0.18,155,3865,6
+Cumbria,909,2015-16,,,County,Requires improvement to be good,92933,413,44,660,71,3371,489,15,0.16,74,3076,5
+Gloucestershire,916,2015-16,,,County,Inadequate,124796,568,46,560,45,3415,202,6,0.15,233,11030,14
+Hertfordshire,919,2015-16,,,County,Good,264237,736,28,1010,38,5589,1025,18,0.13,709,45209,28
+Isle of Wight,921,2015-16,,,Unitary,Good,25344,214,84,205,81,1302,237,18,0.2,368,1036,7
+Lincolnshire,925,2015-16,,,County,Outstanding,142269,268,19,625,44,3170,326,10,0.18,124,11148,12
+Norfolk,926,2015-16,,,County,Requires improvement to be good,167859,458,27,1045,62,10644,1269,12,0.18,164,12323,13
+Northamptonshire,928,2015-16,,,County,Inadequate,162633,963,59,995,61,5519,369,7,0.17,305,22895,23
+Northumberland,929,2015-16,,,Unitary,Good,59258,361,61,385,65,2900,376,13,0.19,63,1862,5
+Oxfordshire,931,2015-16,,,County,Good,141643,571,40,595,42,4636,539,12,0.12,259,17999,23
+Somerset,933,2015-16,,,County,Requires improvement to be good,109265,280,26,500,46,2903,605,21,0.15,158,5488,9
+Suffolk,935,2015-16,,,County,Outstanding,151574,429,28,795,52,3677,653,18,0.15,197,12514,14
+Surrey,936,2015-16,,,County,Inadequate,256602,881,34,865,34,6227,1028,17,0.1,705,29930,23
+Warwickshire,937,2015-16,,,County,Requires improvement to be good,112720,473,42,760,68,3195,262,8,0.14,281,11664,17
+West Sussex,938,2015-16,,,County,Inadequate,170537,417,25,640,37,3718,369,10,0.13,421,16754,17
+"Bournemouth, Christchurch and Poole",839,2015-16,South West,South West,Unitary,Not yet inspected,64599,290,45,435,67,2536,331,14,0.17,6467,6947,18
+City of London,201,2014-15,,,City of London Corporation,Outstanding,866,0,0,10,84,36,0,0,0.1,2114,131,80
+Camden,202,2014-15,,,London borough,Good,44228,226,51,190,43,2043,410,20,0.27,10832,14587,77
+Greenwich,203,2014-15,,,London borough,Good,64766,272,42,520,80,2411,173,7,0.27,5680,22173,65
+Hackney,204,2014-15,,,London borough,Requires improvement to be good,59972,216,36,340,57,2848,174,6,0.32,13812,23530,84
+Hammersmith and Fulham,205,2014-15,,,London borough,Good,33966,169,50,185,55,1559,177,11,0.27,11080,12177,73
+Islington,206,2014-15,,,London borough,Outstanding,39137,171,44,350,90,2094,226,11,0.35,14903,14543,73
+Kensington and Chelsea,207,2014-15,,,London borough,Outstanding,27861,61,22,105,38,1011,98,10,0.17,13018,7943,78
+Lambeth,208,2014-15,,,London borough,Requires improvement to be good,62115,384,62,485,78,3349,94,3,0.3,11810,25715,86
+Lewisham,209,2014-15,,,London borough,Requires improvement to be good,66657,377,57,485,73,2720,440,16,0.3,8259,25694,77
+Southwark,210,2014-15,,,London borough,Good,61765,309,50,500,81,3243,175,5,0.3,10492,26313,79
+Tower Hamlets,211,2014-15,,,London borough,Good,62881,320,51,275,44,2502,134,5,0.39,14383,32191,90
+Wandsworth,212,2014-15,,,London borough,Requires improvement to be good,59935,193,32,225,37,1826,276,15,0.21,9238,19670,74
+Westminster,213,2014-15,,,London borough,Outstanding,40633,113,28,180,44,2148,315,15,0.29,10699,16491,86
+Barking and Dagenham,301,2014-15,,,London borough,Requires improvement to be good,58844,353,60,450,76,2326,129,6,0.32,5502,23710,71
+Barnet,302,2014-15,,,London borough,Good,87821,236,27,305,34,1803,310,17,0.18,4308,31843,69
+Bexley,303,2014-15,,,London borough,Outstanding,55565,289,52,275,49,1759,287,16,0.19,3962,14354,38
+Brent,304,2014-15,,,London borough,Good,73979,226,31,325,44,1889,198,11,0.27,7404,35610,93
+Bromley,305,2014-15,,,London borough,Good,71465,220,31,265,37,2258,439,19,0.17,2142,14368,33
+Croydon,306,2014-15,,,London borough,Good,92384,346,38,805,87,3701,393,11,0.23,4359,33346,69
+Ealing,307,2014-15,,,London borough,Requires improvement to be good,80272,364,45,355,44,2894,295,10,0.23,6175,36062,84
+Enfield,308,2014-15,,,London borough,Good,82050,254,31,355,43,2334,505,22,0.31,4013,37650,79
+Haringey,309,2014-15,,,London borough,Requires improvement to be good,59577,248,42,455,76,2382,216,9,0.29,8933,24750,80
+Harrow,310,2014-15,,,London borough,Good,56628,172,30,165,29,1594,228,14,0.17,4858,25350,86
+Havering,311,2014-15,,,London borough,Good,53277,214,40,240,45,1671,144,9,0.2,2190,9982,30
+Hillingdon,312,2014-15,,,London borough,Good,69137,330,48,335,49,2124,163,8,0.21,2518,25495,61
+Hounslow,313,2014-15,,,London borough,Good,61400,196,32,295,48,1681,260,16,0.22,4717,26817,78
+Kingston upon Thames,314,2014-15,,,London borough,Outstanding,36733,146,40,115,32,889,82,9,0.12,4520,10748,52
+Merton,315,2014-15,,,London borough,Good,45680,177,39,155,34,1544,272,18,0.17,5438,15275,67
+Newham,316,2014-15,,,London borough,Inadequate,82780,337,41,430,52,4072,500,12,0.29,9062,44726,94
+Redbridge,317,2014-15,,,London borough,Outstanding,74574,268,36,215,29,2519,515,20,0.19,5208,39001,84
+Richmond upon Thames,318,2014-15,,,London borough,Good,43681,115,26,95,22,895,173,19,0.09,3367,7851,38
+Sutton,319,2014-15,,,London borough,Good,45314,250,55,225,50,1952,167,9,0.16,4515,14197,45
+Waltham Forest,320,2014-15,,,London borough,Good,64268,234,36,275,43,3076,165,5,0.27,6901,28459,82
+Birmingham,330,2014-15,,,Metropolitan borough council,Requires improvement to be good,282191,1280,45,1985,70,9676,1144,12,0.31,4113,108369,67
+Coventry,331,2014-15,,,Metropolitan borough council,Requires improvement to be good,73988,695,94,590,79,4135,371,9,0.25,3396,20402,45
+Dudley,332,2014-15,,,Metropolitan borough council,Requires improvement to be good,67864,309,46,740,109,3134,636,20,0.22,3222,8672,21
+Sandwell,333,2014-15,,,Metropolitan borough council,Inadequate,77705,317,41,540,69,1778,149,8,0.3,3697,23464,51
+Solihull,334,2014-15,,,Metropolitan borough council,Requires improvement to be good,45469,218,48,335,74,1349,215,16,0.16,1179,7429,23
+Walsall,335,2014-15,,,Metropolitan borough council,Requires improvement to be good,64538,358,56,605,94,2319,272,12,0.28,2635,14504,35
+Wolverhampton,336,2014-15,,,Metropolitan borough council,Good,57749,290,50,780,135,2817,360,13,0.31,3647,16696,49
+Knowsley,340,2014-15,,,Metropolitan borough council,Requires improvement to be good,32250,201,62,305,95,1372,191,14,0.34,1693,877,5
+Liverpool,341,2014-15,,,Metropolitan borough council,Requires improvement to be good,90139,449,50,990,110,4150,24,1,0.33,4243,12150,21
+St. Helens,342,2014-15,,,Metropolitan borough council,Inadequate,36416,271,74,410,113,1655,284,17,0.26,1299,1010,5
+Sefton,343,2014-15,,,Metropolitan borough council,Requires improvement to be good,53490,253,47,450,84,1720,312,18,0.21,1767,2245,6
+Wirral,344,2014-15,,,Metropolitan borough council,Requires improvement to be good,67630,233,35,670,99,2882,353,12,0.24,2047,3114,7
+Bolton,350,2014-15,,,Metropolitan borough council,Good,65677,257,39,570,87,2653,182,7,0.23,2009,13473,33
+Bury,351,2014-15,,,Metropolitan borough council,Requires improvement to be good,42524,200,47,295,69,1475,201,14,0.18,1883,5807,24
+Manchester,352,2014-15,,,Metropolitan borough council,Requires improvement to be good,114749,903,79,1310,113,4758,280,6,0.34,4486,37287,59
+Oldham,353,2014-15,,,Metropolitan borough council,Requires improvement to be good,57653,326,57,390,67,1982,154,8,0.26,1603,14490,41
+Rochdale,354,2014-15,,,Metropolitan borough council,Requires improvement to be good,50559,259,51,525,104,2136,335,16,0.27,1347,10226,35
+Salford,355,2014-15,,,Metropolitan borough council,Good,53057,357,67,585,111,1854,264,14,0.28,2485,6426,23
+Stockport,356,2014-15,,,Metropolitan borough council,Good,61481,238,39,290,47,1684,287,17,0.16,2272,5370,16
+Tameside,357,2014-15,,,Metropolitan borough council,Requires improvement to be good,48781,212,44,415,86,1457,112,8,0.25,2139,5786,20
+Trafford,358,2014-15,,,Metropolitan borough council,Inadequate,53738,252,47,335,62,1453,126,9,0.14,2191,9450,28
+Wigan,359,2014-15,,,Metropolitan borough council,Good,67795,320,47,505,74,2519,274,11,0.2,1706,2540,6
+Barnsley,370,2014-15,,,Metropolitan borough council,Good,49469,329,67,240,48,1871,303,16,0.25,723,1887,7
+Doncaster,371,2014-15,,,Metropolitan borough council,Good,65179,301,46,480,74,2321,154,7,0.25,536,5234,13
+Rotherham,372,2014-15,,,Metropolitan borough council,Good,56420,426,76,405,72,2346,170,7,0.24,908,5945,16
+Sheffield,373,2014-15,,,Metropolitan borough council,Good,115195,363,32,530,46,4014,603,15,0.24,1531,21225,32
+Bradford,380,2014-15,,,Metropolitan borough council,Inadequate,138951,513,37,880,63,3828,442,12,0.25,1440,45840,56
+Calderdale,381,2014-15,,,Metropolitan borough council,Good,45651,205,45,320,70,1240,79,6,0.21,569,7345,23
+Kirklees,382,2014-15,,,Metropolitan borough council,Requires improvement to be good,98317,343,35,620,63,2613,336,13,0.19,1052,21488,38
+Leeds,383,2014-15,,,Metropolitan borough council,Outstanding,160476,612,38,1255,78,6430,414,6,0.23,1387,28984,30
+Wakefield,384,2014-15,,,Metropolitan borough council,Inadequate,69152,287,42,495,72,2588,197,8,0.22,980,5102,12
+Gateshead,390,2014-15,,,Metropolitan borough council,Good,40057,258,64,335,84,1590,296,19,0.23,1410,2061,8
+Newcastle upon Tyne,391,2014-15,,,Metropolitan borough council,Requires improvement to be good,56215,429,76,505,89,2279,482,21,0.27,2541,8714,27
+North Tyneside,392,2014-15,,,Metropolitan borough council,Outstanding,40487,169,42,300,75,1406,92,7,0.2,2464,1909,7
+South Tyneside,393,2014-15,,,Metropolitan borough council,Good,29302,195,67,295,101,1495,224,15,0.28,2307,1310,7
+Sunderland,394,2014-15,,,Metropolitan borough council,Inadequate,54484,406,75,570,105,2843,241,9,0.26,2014,2421,7
+Isles of Scilly,420,2014-15,,,Council of the Isles of Scilly,Good,388,0,0,0,0,17,0,0,0.01,140,52,23
+Bath and North East Somerset,800,2014-15,,,Unitary,Good,34424,99,29,130,38,1542,307,20,0.12,524,2585,11
+"Bristol, City of",801,2014-15,,,Unitary,Requires improvement to be good,91932,439,48,700,76,3133,675,22,0.25,4045,16201,35
+North Somerset,802,2014-15,,,Unitary,Requires improvement to be good,42469,122,29,230,55,1323,216,16,0.15,557,2410,9
+South Gloucestershire,803,2014-15,,,Unitary,Requires improvement to be good,57051,172,30,175,30,1401,214,15,0.12,545,4518,13
+Hartlepool,805,2014-15,,,Unitary,Good,19959,142,71,165,82,1191,152,13,0.31,990,671,5
+Middlesbrough,806,2014-15,,,Unitary,Inadequate,31782,231,73,360,113,2069,262,13,0.36,2579,4381,23
+Redcar and Cleveland,807,2014-15,,,Unitary,Requires improvement to be good,27330,120,44,185,67,950,182,19,0.27,552,715,4
+Stockton-on-Tees,808,2014-15,,,Unitary,Requires improvement to be good,42517,355,84,375,88,1902,137,7,0.23,949,2527,10
+"Kingston Upon Hull, City of",810,2014-15,,,Unitary,Inadequate,55362,335,61,660,119,3787,541,14,0.34,3603,4854,16
+East Riding of Yorkshire,811,2014-15,,,Unitary,Inadequate,63178,175,28,290,46,1843,252,14,0.13,140,2218,5
+North East Lincolnshire,812,2014-15,,,Unitary,Good,34317,226,66,265,77,1941,178,9,0.29,834,1271,6
+North Lincolnshire,813,2014-15,,,Unitary,Outstanding,35223,121,34,175,50,1005,152,15,0.21,200,2465,12
+North Yorkshire,815,2014-15,,,County,Outstanding,117565,409,35,445,38,2787,529,19,0.11,75,5198,7
+York,816,2014-15,,,Unitary,Good,36585,124,34,190,52,1033,153,15,0.12,749,2146,10
+Luton,821,2014-15,,,Unitary,Inadequate,54693,241,44,400,73,2480,450,18,0.24,4848,23515,74
+Bedford Borough,822,2014-15,,,Unitary,Requires improvement to be good,37402,163,44,255,67,1427,170,12,0.19,344,9214,39
+Central Bedfordshire,823,2014-15,,,Unitary,Good,58555,164,28,275,47,1506,252,17,0.14,374,5019,14
+Buckinghamshire,825,2014-15,,,County,Inadequate,118896,332,28,435,37,2695,433,16,0.1,333,21522,30
+Milton Keynes,826,2014-15,,,Unitary,Requires improvement to be good,65306,57,9,340,52,1584,231,15,0.2,843,14765,38
+Derbyshire,830,2014-15,,,County,Requires improvement to be good,154075,644,42,610,40,4659,887,19,0.17,306,5384,6
+Derby,831,2014-15,,,Unitary,Good,58267,314,54,470,81,2444,327,13,0.25,3233,13091,37
+Dorset,835,2014-15,,,County,,77248,372,48,380,49,2687,255,10,0.13,165,3582,7
+Poole,836,2014-15,,,Unitary,0,29683,123,41,170,57,1276,258,20,0.16,2311,1996,12
+Bournemouth,837,2014-15,,,Unitary,0,34117,176,52,260,76,1355,148,11,0.19,4107,4396,22
+Durham,840,2014-15,,,Unitary,Requires improvement to be good,100287,377,38,615,62,3745,345,9,0.24,233,2552,4
+Darlington,841,2014-15,,,Unitary,Requires improvement to be good,22739,86,38,200,88,845,160,19,0.22,536,1274,10
+East Sussex,845,2014-15,,,County,Outstanding,105439,469,45,545,52,3351,598,18,0.17,316,6715,12
+Brighton and Hove,846,2014-15,,,Unitary,Good,50942,309,61,470,93,2475,330,13,0.18,3390,6600,23
+Hampshire,850,2014-15,,,County,Outstanding,281692,1354,48,1335,47,7818,1211,16,0.12,367,16527,11
+Portsmouth,851,2014-15,,,Unitary,Good,43341,232,54,320,74,1436,175,12,0.24,5150,4302,20
+Southampton,852,2014-15,,,Unitary,Requires improvement to be good,48456,324,67,580,120,1347,37,3,0.25,4850,8254,32
+Leicestershire,855,2014-15,,,County,Requires improvement to be good,134753,393,29,470,35,2058,290,14,0.12,320,13812,16
+Leicester,856,2014-15,,,Unitary,Requires improvement to be good,80803,431,53,565,70,2211,216,10,0.28,4615,30050,69
+Rutland,857,2014-15,,,Unitary,Requires improvement to be good,7711,27,35,35,44,229,30,13,0.08,100,326,6
+Staffordshire,860,2014-15,,,County,Good,169607,624,37,930,55,5590,934,17,0.15,328,10306,10
+Stoke-on-Trent,861,2014-15,,,Unitary,Inadequate,55778,255,46,610,109,3741,420,11,0.29,2686,8065,26
+Wiltshire,865,2014-15,,,Unitary,Good,104021,403,39,405,39,3226,434,14,0.11,149,5795,10
+Swindon,866,2014-15,,,Unitary,Good,48625,213,44,250,51,1879,285,15,0.17,939,6445,23
+Bracknell Forest,867,2014-15,,,Unitary,Good,27809,122,44,105,37,748,82,11,0.11,1079,2867,19
+Windsor and Maidenhead,868,2014-15,,,Unitary,Good,33399,64,19,100,30,841,262,31,0.08,751,5827,32
+West Berkshire,869,2014-15,,,Unitary,Good,35677,126,35,170,48,955,102,11,0.1,222,3193,14
+Reading,870,2014-15,,,Unitary,Requires improvement to be good,35786,204,57,210,58,1394,158,11,0.2,3967,8541,50
+Slough,871,2014-15,,,Unitary,Requires improvement to be good,39829,112,28,195,49,1450,187,13,0.2,4436,19228,82
+Wokingham,872,2014-15,,,Unitary,Requires improvement to be good,36869,48,13,75,20,523,109,21,0.07,891,6076,28
+Cambridgeshire,873,2014-15,,,County,Requires improvement to be good,131150,387,30,530,40,2993,509,17,0.13,209,14041,19
+Peterborough,874,2014-15,,,Unitary,Good,46592,231,50,340,73,1895,218,12,0.25,555,13642,45
+Halton,876,2014-15,,,Unitary,Requires improvement to be good,28242,241,85,230,82,1289,164,13,0.27,1600,676,4
+Warrington,877,2014-15,,,Unitary,Good,44450,229,52,300,67,1053,167,16,0.15,1144,2767,10
+Devon,878,2014-15,,,County,Inadequate,142130,486,34,700,49,5725,1618,28,0.14,116,5497,7
+Plymouth,879,2014-15,,,Unitary,Requires improvement to be good,51671,400,77,390,76,1866,353,19,0.23,3263,3240,10
+Torbay,880,2014-15,,,Unitary,Inadequate,25077,151,60,305,122,1555,211,14,0.24,2119,1378,8
+Essex,881,2014-15,,,County,Outstanding,300324,462,15,1025,34,6286,1237,20,0.17,414,25249,14
+Southend-on-Sea,882,2014-15,,,Unitary,Requires improvement to be good,38232,184,48,230,60,1024,237,23,0.23,4272,5777,23
+Thurrock,883,2014-15,,,Unitary,Good,40121,201,50,285,71,1563,196,13,0.22,1002,7021,31
+Herefordshire,884,2014-15,,,Unitary,Requires improvement to be good,36082,170,47,270,75,1311,59,5,0.14,86,1918,9
+Worcestershire,885,2014-15,,,County,Requires improvement to be good,114986,368,32,690,60,3942,519,13,0.16,331,7968,12
+Kent,886,2014-15,,,County,Good,328257,1242,38,1870,57,9182,1443,16,0.18,426,33821,17
+Medway,887,2014-15,,,Unitary,Inadequate,62498,475,76,425,68,2544,393,15,0.22,1412,8498,22
+Lancashire,888,2014-15,,,County,Requires improvement to be good,244635,936,38,1590,65,8489,626,7,0.18,407,25413,17
+Blackburn with Darwen,889,2014-15,,,Unitary,Good,38267,187,49,315,83,1617,146,9,0.24,1076,11811,52
+Blackpool,890,2014-15,,,Unitary,Inadequate,28847,355,123,455,158,1672,103,6,0.33,4043,1508,9
+Nottinghamshire,891,2014-15,,,County,Good,163094,702,43,840,51,3793,245,7,0.18,385,11828,12
+Nottingham,892,2014-15,,,Unitary,Requires improvement to be good,64985,527,81,580,89,3391,499,15,0.35,4214,17341,49
+Shropshire,893,2014-15,,,Unitary,Good,59778,249,42,310,52,1637,197,12,0.13,97,2307,7
+Telford and Wrekin,894,2014-15,,,Unitary,Outstanding,39029,103,26,295,75,1112,208,19,0.25,585,3982,17
+Cheshire East,895,2014-15,,,Unitary,Requires improvement to be good,75095,312,42,360,48,2176,151,7,0.12,321,4451,10
+Cheshire West and Chester,896,2014-15,,,Unitary,Good,66155,246,37,495,75,2147,269,13,0.17,362,3069,7
+Cornwall,908,2014-15,,,Unitary,Outstanding,104923,404,39,440,42,3146,760,24,0.18,154,3666,6
+Cumbria,909,2014-15,,,County,Requires improvement to be good,93352,325,35,685,73,3421,503,15,0.16,74,2817,5
+Gloucestershire,916,2014-15,,,County,Inadequate,123845,430,35,520,42,3231,182,6,0.15,231,10167,13
+Hertfordshire,919,2014-15,,,County,Good,261708,896,34,1005,38,5441,1078,20,0.13,702,42367,26
+Isle of Wight,921,2014-15,,,Unitary,Good,25566,254,99,200,79,1092,237,22,0.2,367,963,6
+Lincolnshire,925,2014-15,,,County,Outstanding,141395,386,27,630,44,3747,322,9,0.18,123,10103,11
+Norfolk,926,2014-15,,,County,Requires improvement to be good,166914,572,34,1070,64,8192,977,12,0.18,163,11393,12
+Northamptonshire,928,2014-15,,,County,Inadequate,160663,988,62,940,58,4161,304,7,0.17,302,20867,21
+Northumberland,929,2014-15,,,Unitary,Good,59825,355,59,365,61,3364,409,12,0.19,63,1810,5
+Oxfordshire,931,2014-15,,,County,Good,141009,569,40,510,36,3917,550,14,0.12,257,17034,22
+Somerset,933,2014-15,,,County,Requires improvement to be good,108932,522,48,490,45,4264,748,18,0.15,157,5010,8
+Suffolk,935,2014-15,,,County,Outstanding,151003,452,30,730,48,3277,683,21,0.15,195,11496,13
+Surrey,936,2014-15,,,County,Inadequate,254701,995,39,780,31,5735,924,16,0.1,700,28462,22
+Warwickshire,937,2014-15,,,County,Requires improvement to be good,112324,536,48,690,61,3797,217,6,0.14,280,10704,15
+West Sussex,938,2014-15,,,County,Inadequate,168948,502,30,645,38,4205,564,13,0.13,417,15694,16
+"Bournemouth, Christchurch and Poole",839,2014-15,South West,South West,Unitary,Not yet inspected,63800,299,47,430,67,2631,406,16,0.17,6418,6392,17
+City of London,201,2013-14,,,City of London Corporation,Outstanding,738,0,0,5,84,28,0,0,0.1,2077,151,86
+Camden,202,2013-14,,,London borough,Good,40753,199,47,225,53,2124,381,18,0.27,10578,14437,76
+Greenwich,203,2013-14,,,London borough,Good,62547,279,44,540,85,3457,335,10,0.27,5579,20904,64
+Hackney,204,2013-14,,,London borough,Requires improvement to be good,57830,221,38,340,58,2465,190,8,0.32,13514,22948,85
+Hammersmith and Fulham,205,2013-14,,,London borough,Good,33046,161,48,205,61,1459,140,10,0.27,11064,11632,72
+Islington,206,2013-14,,,London borough,Outstanding,37433,137,36,305,80,2038,219,11,0.35,14529,14268,73
+Kensington and Chelsea,207,2013-14,,,London borough,Outstanding,26993,92,34,95,36,1002,106,11,0.17,12961,7638,77
+Lambeth,208,2013-14,,,London borough,Requires improvement to be good,61324,358,58,530,85,4242,40,1,0.3,11664,24986,86
+Lewisham,209,2013-14,,,London borough,Requires improvement to be good,64497,302,46,505,77,3029,424,14,0.3,8107,24934,76
+Southwark,210,2013-14,,,London borough,Good,60307,327,53,550,90,2927,139,5,0.3,10348,25568,79
+Tower Hamlets,211,2013-14,,,London borough,Good,57735,328,54,325,53,2544,178,7,0.39,13828,31522,90
+Wandsworth,212,2013-14,,,London borough,Requires improvement to be good,57026,170,29,205,35,1639,289,18,0.21,9138,19097,73
+Westminster,213,2013-14,,,London borough,Outstanding,37646,99,25,175,45,2017,238,12,0.29,10486,15962,86
+Barking and Dagenham,301,2013-14,,,London borough,Requires improvement to be good,55584,318,55,455,79,2184,168,8,0.32,5389,22150,68
+Barnet,302,2013-14,,,London borough,Good,85160,220,26,310,36,1937,302,16,0.18,4246,31131,68
+Bexley,303,2013-14,,,London borough,Outstanding,54560,255,46,260,47,1616,307,19,0.19,3909,13494,36
+Brent,304,2013-14,,,London borough,Good,71675,229,32,350,48,1413,118,8,0.27,7335,34737,92
+Bromley,305,2013-14,,,London borough,Good,69586,262,37,275,39,1972,470,24,0.17,2119,13658,32
+Croydon,306,2013-14,,,London borough,Good,90722,377,41,785,86,3753,434,12,0.23,4320,32315,68
+Ealing,307,2013-14,,,London borough,Requires improvement to be good,78080,326,41,385,48,2594,174,7,0.23,6159,35036,83
+Enfield,308,2013-14,,,London borough,Good,80123,204,25,300,37,2012,386,19,0.31,3963,36709,77
+Haringey,309,2013-14,,,London borough,Requires improvement to be good,58111,196,33,510,87,2816,243,9,0.29,8819,24306,80
+Harrow,310,2013-14,,,London borough,Good,55158,183,33,165,30,1714,228,13,0.17,4815,24238,85
+Havering,311,2013-14,,,London borough,Good,51399,143,27,205,40,1114,45,4,0.2,2155,9125,28
+Hillingdon,312,2013-14,,,London borough,Good,65949,171,25,355,52,2334,167,7,0.21,2472,24013,59
+Hounslow,313,2013-14,,,London borough,Good,59207,221,37,315,52,1822,292,16,0.22,4667,25858,77
+Kingston upon Thames,314,2013-14,,,London borough,Outstanding,34910,100,28,115,32,915,160,18,0.12,4446,10262,50
+Merton,315,2013-14,,,London borough,Good,44477,182,40,150,34,1603,276,17,0.17,5412,14604,66
+Newham,316,2013-14,,,London borough,Inadequate,79941,224,28,405,50,3313,458,14,0.29,8880,42944,93
+Redbridge,317,2013-14,,,London borough,Outstanding,72072,188,26,215,30,2363,498,21,0.19,5120,37394,83
+Richmond upon Thames,318,2013-14,,,London borough,Good,41831,90,21,85,20,788,227,29,0.09,3330,7208,37
+Sutton,319,2013-14,,,London borough,Good,43957,247,55,195,44,1298,80,6,0.16,4465,13164,43
+Waltham Forest,320,2013-14,,,London borough,Good,62836,208,33,265,42,2519,132,5,0.27,6845,27846,81
+Birmingham,330,2013-14,,,Metropolitan borough council,Requires improvement to be good,277098,844,30,1805,64,9123,1013,11,0.31,4079,103946,65
+Coventry,331,2013-14,,,Metropolitan borough council,Requires improvement to be good,71783,765,105,630,86,4637,371,8,0.25,3330,19226,43
+Dudley,332,2013-14,,,Metropolitan borough council,Requires improvement to be good,67423,304,45,755,112,3262,798,25,0.22,3209,8146,20
+Sandwell,333,2013-14,,,Metropolitan borough council,Inadequate,75695,383,50,570,74,1994,168,8,0.3,3670,22020,49
+Solihull,334,2013-14,,,Metropolitan borough council,Requires improvement to be good,45110,208,46,325,72,1849,328,18,0.16,1173,6979,22
+Walsall,335,2013-14,,,Metropolitan borough council,Requires improvement to be good,63478,326,51,630,98,2824,251,9,0.28,2616,13930,34
+Wolverhampton,336,2013-14,,,Metropolitan borough council,Good,56400,236,42,770,136,2249,327,15,0.31,3625,15926,48
+Knowsley,340,2013-14,,,Metropolitan borough council,Requires improvement to be good,32465,185,57,260,80,1181,187,16,0.34,1689,800,5
+Liverpool,341,2013-14,,,Metropolitan borough council,Requires improvement to be good,89517,391,44,990,111,3686,30,1,0.33,4219,11121,19
+St. Helens,342,2013-14,,,Metropolitan borough council,Inadequate,36416,231,64,430,119,1505,274,18,0.26,1292,982,4
+Sefton,343,2013-14,,,Metropolitan borough council,Requires improvement to be good,53837,222,41,400,75,1551,347,22,0.21,1764,2120,6
+Wirral,344,2013-14,,,Metropolitan borough council,Requires improvement to be good,67661,290,43,665,99,2674,475,18,0.24,2042,2974,7
+Bolton,350,2013-14,,,Metropolitan borough council,Good,65151,384,59,530,80,2603,198,8,0.23,2005,12550,32
+Bury,351,2013-14,,,Metropolitan borough council,Requires improvement to be good,42201,222,52,310,73,1841,183,10,0.18,1875,5480,23
+Manchester,352,2013-14,,,Metropolitan borough council,Requires improvement to be good,110817,919,81,1380,122,5155,335,7,0.34,4442,34239,57
+Oldham,353,2013-14,,,Metropolitan borough council,Requires improvement to be good,56701,277,48,395,69,1680,180,11,0.26,1594,13788,40
+Rochdale,354,2013-14,,,Metropolitan borough council,Requires improvement to be good,50679,316,63,530,105,2216,355,16,0.27,1342,9603,34
+Salford,355,2013-14,,,Metropolitan borough council,Good,51575,278,53,575,110,1663,296,18,0.28,2456,5748,21
+Stockport,356,2013-14,,,Metropolitan borough council,Good,60667,358,59,300,49,1596,288,18,0.16,2260,5031,15
+Tameside,357,2013-14,,,Metropolitan borough council,Requires improvement to be good,48503,167,34,425,87,1450,112,8,0.25,2138,5434,19
+Trafford,358,2013-14,,,Metropolitan borough council,Inadequate,52324,283,53,315,60,1398,169,12,0.14,2170,8950,27
+Wigan,359,2013-14,,,Metropolitan borough council,Good,67712,213,31,495,73,2092,263,13,0.2,1700,2359,6
+Barnsley,370,2013-14,,,Metropolitan borough council,Good,49095,210,43,225,46,1104,245,22,0.25,717,1821,7
+Doncaster,371,2013-14,,,Metropolitan borough council,Good,64918,331,51,500,77,2239,198,9,0.25,535,4837,12
+Rotherham,372,2013-14,,,Metropolitan borough council,Good,56108,388,69,395,70,1851,191,10,0.24,903,5630,15
+Sheffield,373,2013-14,,,Metropolitan borough council,Good,114028,452,39,535,47,4087,590,14,0.24,1523,19963,31
+Bradford,380,2013-14,,,Metropolitan borough council,Inadequate,137405,577,42,880,63,4183,488,12,0.25,1435,43435,54
+Calderdale,381,2013-14,,,Metropolitan borough council,Good,45582,249,55,320,70,1252,74,6,0.21,566,6993,22
+Kirklees,382,2013-14,,,Metropolitan borough council,Requires improvement to be good,97335,343,35,610,62,2713,340,13,0.19,1047,20684,37
+Leeds,383,2013-14,,,Metropolitan borough council,Outstanding,156848,747,47,1355,86,6946,523,8,0.23,1379,27057,28
+Wakefield,384,2013-14,,,Metropolitan borough council,Inadequate,68401,384,56,490,71,3710,242,7,0.22,974,4656,11
+Gateshead,390,2013-14,,,Metropolitan borough council,Good,40305,276,69,355,89,1602,275,17,0.23,1406,1859,8
+Newcastle upon Tyne,391,2013-14,,,Metropolitan borough council,Requires improvement to be good,54523,373,67,555,100,2446,501,21,0.27,2519,8048,26
+North Tyneside,392,2013-14,,,Metropolitan borough council,Outstanding,40338,157,39,305,75,1565,89,6,0.2,2456,1764,7
+South Tyneside,393,2013-14,,,Metropolitan borough council,Good,29485,173,59,305,104,1390,233,17,0.28,2304,1195,7
+Sunderland,394,2013-14,,,Metropolitan borough council,Inadequate,54708,306,56,490,89,2663,320,12,0.26,2009,2251,7
+Isles of Scilly,420,2013-14,,,Council of the Isles of Scilly,Good,369,0,0,0,0,0,0,0,0.01,139,69,30
+Bath and North East Somerset,800,2013-14,,,Unitary,Good,33839,79,23,150,44,1314,237,18,0.12,519,2342,10
+"Bristol, City of",801,2013-14,,,Unitary,Requires improvement to be good,89408,451,50,695,77,3681,788,21,0.25,3996,15222,34
+North Somerset,802,2013-14,,,Unitary,Requires improvement to be good,41825,111,26,215,51,1409,224,16,0.15,552,2228,9
+South Gloucestershire,803,2013-14,,,Unitary,Requires improvement to be good,57046,116,20,170,30,1583,225,14,0.12,541,4168,12
+Hartlepool,805,2013-14,,,Unitary,Good,20289,128,63,200,100,1226,147,12,0.31,990,646,5
+Middlesbrough,806,2013-14,,,Unitary,Inadequate,31637,235,74,350,111,2197,313,14,0.36,2578,4113,22
+Redcar and Cleveland,807,2013-14,,,Unitary,Requires improvement to be good,27522,217,79,175,63,1170,213,18,0.27,551,667,4
+Stockton-on-Tees,808,2013-14,,,Unitary,Requires improvement to be good,42147,296,70,380,90,2073,188,9,0.23,944,2339,10
+"Kingston Upon Hull, City of",810,2013-14,,,Unitary,Inadequate,54847,248,45,640,116,3190,478,15,0.34,3600,4453,15
+East Riding of Yorkshire,811,2013-14,,,Unitary,Inadequate,63888,132,21,310,49,1939,221,11,0.13,140,2021,5
+North East Lincolnshire,812,2013-14,,,Unitary,Good,34381,407,118,265,76,2366,112,5,0.29,834,1228,6
+North Lincolnshire,813,2013-14,,,Unitary,Outstanding,35474,109,31,170,48,771,149,19,0.21,199,2283,11
+North Yorkshire,815,2013-14,,,County,Outstanding,118574,353,30,460,39,2658,459,17,0.11,75,4927,7
+York,816,2013-14,,,Unitary,Good,36036,125,34,220,61,1266,155,12,0.12,743,1964,9
+Luton,821,2013-14,,,Unitary,Inadequate,52868,271,51,400,74,3408,509,15,0.24,4784,22281,72
+Bedford Borough,822,2013-14,,,Unitary,Requires improvement to be good,36116,164,45,270,73,1355,142,11,0.19,339,8829,38
+Central Bedfordshire,823,2013-14,,,Unitary,Good,57139,192,33,270,46,1541,227,15,0.14,369,4627,13
+Buckinghamshire,825,2013-14,,,County,Inadequate,116860,242,21,440,37,2417,367,15,0.1,329,20281,29
+Milton Keynes,826,2013-14,,,Unitary,Requires improvement to be good,62949,33,5,305,47,1487,237,16,0.2,831,13807,37
+Derbyshire,830,2013-14,,,County,Requires improvement to be good,155839,694,45,625,41,4501,828,18,0.17,305,4972,5
+Derby,831,2013-14,,,Unitary,Good,57412,300,52,445,77,2566,146,6,0.25,3221,12354,36
+Dorset,835,2013-14,,,County,,77180,270,35,340,44,2260,259,12,0.13,164,3380,7
+Poole,836,2013-14,,,Unitary,0,29426,134,46,150,52,1095,257,24,0.16,2297,1865,11
+Bournemouth,837,2013-14,,,Unitary,0,32736,231,69,275,83,1684,139,8,0.19,4069,3972,21
+Durham,840,2013-14,,,Unitary,Requires improvement to be good,100250,453,45,605,60,3028,357,12,0.24,232,2330,4
+Darlington,841,2013-14,,,Unitary,Requires improvement to be good,22774,140,61,190,83,897,166,19,0.22,535,1176,9
+East Sussex,845,2013-14,,,County,Outstanding,104657,613,58,575,55,4325,598,14,0.17,313,6407,11
+Brighton and Hove,846,2013-14,,,Unitary,Good,50058,288,57,460,91,1796,193,11,0.18,3358,6290,23
+Hampshire,850,2013-14,,,County,Outstanding,281502,1111,39,1265,45,8020,1384,17,0.12,364,15682,10
+Portsmouth,851,2013-14,,,Unitary,Good,42475,234,55,320,74,1328,181,14,0.24,5117,3953,19
+Southampton,852,2013-14,,,Unitary,Requires improvement to be good,47003,236,49,500,104,1952,0,0,0.25,4805,7609,30
+Leicestershire,855,2013-14,,,County,Requires improvement to be good,134433,439,33,455,34,4891,571,12,0.12,317,13196,15
+Leicester,856,2013-14,,,Unitary,Requires improvement to be good,78492,326,41,530,67,1920,182,10,0.28,4563,28416,68
+Rutland,857,2013-14,,,Unitary,Requires improvement to be good,7809,34,44,35,44,250,34,14,0.08,99,318,6
+Staffordshire,860,2013-14,,,County,Good,170531,695,41,950,56,6614,800,12,0.15,327,9439,9
+Stoke-on-Trent,861,2013-14,,,Unitary,Inadequate,54779,308,56,535,97,3381,402,12,0.29,2677,7453,25
+Wiltshire,865,2013-14,,,Unitary,Good,103572,396,38,395,38,2819,347,12,0.11,147,5411,9
+Swindon,866,2013-14,,,Unitary,Good,47384,214,45,255,53,1618,154,10,0.17,930,5889,22
+Bracknell Forest,867,2013-14,,,Unitary,Good,26989,108,39,115,41,774,89,12,0.11,1065,2653,18
+Windsor and Maidenhead,868,2013-14,,,Unitary,Good,32907,89,27,105,32,951,293,31,0.08,744,5585,31
+West Berkshire,869,2013-14,,,Unitary,Good,35503,107,30,155,44,838,95,11,0.1,222,3053,13
+Reading,870,2013-14,,,Unitary,Requires improvement to be good,34197,154,44,205,59,1499,157,11,0.2,3926,7959,49
+Slough,871,2013-14,,,Unitary,Requires improvement to be good,38267,255,65,190,48,1549,193,13,0.2,4384,18109,80
+Wokingham,872,2013-14,,,Unitary,Requires improvement to be good,35984,95,26,70,20,541,86,16,0.07,883,5688,26
+Cambridgeshire,873,2013-14,,,County,Requires improvement to be good,128728,395,31,500,38,2977,409,14,0.13,206,13036,18
+Peterborough,874,2013-14,,,Unitary,Good,44991,239,52,365,80,1765,225,13,0.25,549,12622,43
+Halton,876,2013-14,,,Unitary,Requires improvement to be good,28030,164,58,210,75,1146,150,13,0.27,1594,615,4
+Warrington,877,2013-14,,,Unitary,Good,44104,170,38,235,53,1065,168,16,0.15,1136,2519,9
+Devon,878,2013-14,,,County,Inadequate,141040,600,42,685,49,5731,1410,25,0.14,115,5212,6
+Plymouth,879,2013-14,,,Unitary,Requires improvement to be good,50924,374,73,395,77,1886,451,24,0.23,3239,2986,9
+Torbay,880,2013-14,,,Unitary,Inadequate,24860,166,67,315,126,1843,302,16,0.24,2102,1267,8
+Essex,881,2013-14,,,County,Outstanding,296733,421,14,1135,38,6412,1345,21,0.17,409,23712,13
+Southend-on-Sea,882,2013-14,,,Unitary,Requires improvement to be good,37632,163,43,245,64,1057,284,27,0.23,4221,5399,22
+Thurrock,883,2013-14,,,Unitary,Good,39024,286,73,285,72,1454,230,16,0.22,987,6347,29
+Herefordshire,884,2013-14,,,Unitary,Requires improvement to be good,36019,212,59,240,67,1238,23,2,0.14,86,1794,9
+Worcestershire,885,2013-14,,,County,Requires improvement to be good,114606,380,33,640,56,3700,521,14,0.16,329,7394,11
+Kent,886,2013-14,,,County,Good,324341,1191,37,1820,56,10030,1452,15,0.18,421,31583,16
+Medway,887,2013-14,,,Unitary,Inadequate,61408,358,58,380,61,2589,406,16,0.22,1399,7876,21
+Lancashire,888,2013-14,,,County,Requires improvement to be good,243220,1079,44,1585,65,9034,632,7,0.18,406,24228,17
+Blackburn with Darwen,889,2013-14,,,Unitary,Good,38662,219,57,340,89,1515,150,10,0.24,1078,10714,49
+Blackpool,890,2013-14,,,Unitary,Inadequate,29073,307,106,445,153,1884,142,8,0.33,4063,1418,8
+Nottinghamshire,891,2013-14,,,County,Good,162152,590,36,825,51,7129,569,8,0.18,382,11182,11
+Nottingham,892,2013-14,,,Unitary,Requires improvement to be good,63004,473,74,585,91,3422,584,17,0.35,4164,16187,47
+Shropshire,893,2013-14,,,Unitary,Good,60558,253,42,270,45,1265,183,15,0.13,97,2184,7
+Telford and Wrekin,894,2013-14,,,Unitary,Outstanding,39011,129,33,310,79,1400,211,15,0.25,581,3631,16
+Cheshire East,895,2013-14,,,Unitary,Requires improvement to be good,75016,203,27,335,44,2116,156,7,0.12,320,4194,9
+Cheshire West and Chester,896,2013-14,,,Unitary,Good,66047,172,26,435,66,2076,297,14,0.17,361,2895,7
+Cornwall,908,2013-14,,,Unitary,Outstanding,103579,303,29,440,42,0,0,0,0.18,153,3518,6
+Cumbria,909,2013-14,,,County,Requires improvement to be good,94549,595,63,665,71,3888,519,13,0.16,74,2559,4
+Gloucestershire,916,2013-14,,,County,Inadequate,122439,448,37,480,39,2982,209,7,0.15,228,9518,13
+Hertfordshire,919,2013-14,,,County,Good,256018,1140,44,1010,39,5882,1115,19,0.13,694,39657,25
+Isle of Wight,921,2013-14,,,Unitary,Good,25967,164,64,190,74,1155,411,36,0.2,364,956,6
+Lincolnshire,925,2013-14,,,County,Outstanding,139777,342,24,600,43,3724,338,9,0.18,122,9155,10
+Norfolk,926,2013-14,,,County,Requires improvement to be good,165632,537,32,1150,69,6678,1559,23,0.18,162,10534,11
+Northamptonshire,928,2013-14,,,County,Inadequate,157811,792,50,855,54,4766,376,8,0.17,298,18959,20
+Northumberland,929,2013-14,,,Unitary,Good,61054,354,59,330,55,3681,424,12,0.19,63,1946,5
+Oxfordshire,931,2013-14,,,County,Good,139334,504,36,460,33,3504,526,15,0.12,255,15831,20
+Somerset,933,2013-14,,,County,Requires improvement to be good,108630,412,38,490,45,4037,711,18,0.15,156,4528,7
+Suffolk,935,2013-14,,,County,Outstanding,150671,602,40,725,48,3489,709,20,0.15,194,10659,12
+Surrey,936,2013-14,,,County,Inadequate,249845,925,37,795,31,4583,843,18,0.1,694,27294,21
+Warwickshire,937,2013-14,,,County,Requires improvement to be good,111916,528,47,695,62,3788,251,7,0.14,278,9968,15
+West Sussex,938,2013-14,,,County,Inadequate,166027,489,29,600,36,3824,596,16,0.13,413,14804,15
+"Bournemouth, Christchurch and Poole",839,2013-14,South West,South West,Unitary,Not yet inspected,62162,365,57,425,68,2779,396,16,0.17,6366,5837,16
+City of London,201,2012-13,,,City of London Corporation,Outstanding,739,0,0,5,88,43,0,0,0.1,2277,154,88
+Camden,202,2012-13,,,London borough,Good,42477,205,50,265,65,2027,382,19,0.27,10317,14345,76
+Greenwich,203,2012-13,,,London borough,Good,63776,412,66,575,92,4008,424,11,0.27,5493,19786,63
+Hackney,204,2012-13,,,London borough,Requires improvement to be good,58990,225,39,320,55,2206,187,9,0.32,13240,21829,85
+Hammersmith and Fulham,205,2012-13,,,London borough,Good,33533,142,43,235,72,1555,102,7,0.27,11106,11454,72
+Islington,206,2012-13,,,London borough,Outstanding,38397,117,31,310,83,2011,253,13,0.35,14221,13983,73
+Kensington and Chelsea,207,2012-13,,,London borough,Outstanding,27454,73,27,100,36,998,105,11,0.17,12942,7404,76
+Lambeth,208,2012-13,,,London borough,Requires improvement to be good,61888,299,49,500,81,3710,154,4,0.3,11539,24010,86
+Lewisham,209,2012-13,,,London borough,Requires improvement to be good,65600,235,36,495,77,2724,405,15,0.3,7986,24370,76
+Southwark,210,2012-13,,,London borough,Good,61185,272,45,560,93,3315,193,6,0.3,10167,24656,78
+Tower Hamlets,211,2012-13,,,London borough,Good,60599,328,57,305,53,2231,223,10,0.39,13323,30527,89
+Wandsworth,212,2012-13,,,London borough,Requires improvement to be good,58430,147,26,210,37,1425,264,19,0.21,9033,18561,73
+Westminster,213,2012-13,,,London borough,Outstanding,39139,94,25,190,50,1899,138,7,0.29,10413,15751,86
+Barking and Dagenham,301,2012-13,,,London borough,Requires improvement to be good,57353,200,36,415,74,2161,204,9,0.32,5280,20266,65
+Barnet,302,2012-13,,,London borough,Good,86382,203,24,305,36,1833,339,19,0.18,4193,30116,68
+Bexley,303,2012-13,,,London borough,Outstanding,54939,218,40,255,47,1827,292,16,0.19,3868,12643,34
+Brent,304,2012-13,,,London borough,Good,72561,172,24,345,48,1322,132,10,0.27,7277,33976,92
+Bromley,305,2012-13,,,London borough,Good,70453,184,26,285,41,1688,540,32,0.17,2092,12776,30
+Croydon,306,2012-13,,,London borough,Good,91671,308,34,730,81,3710,238,6,0.23,4268,30980,66
+Ealing,307,2012-13,,,London borough,Requires improvement to be good,79474,319,41,400,51,2484,321,13,0.23,6127,33860,82
+Enfield,308,2012-13,,,London borough,Good,80956,228,29,300,37,1929,362,19,0.31,3925,35507,76
+Haringey,309,2012-13,,,London borough,Requires improvement to be good,58806,268,46,540,93,3074,199,7,0.29,8713,24763,81
+Harrow,310,2012-13,,,London borough,Good,55757,122,22,170,31,1313,291,22,0.17,4795,23124,83
+Havering,311,2012-13,,,London borough,Good,52136,122,24,185,36,1155,183,16,0.2,2134,8297,26
+Hillingdon,312,2012-13,,,London borough,Good,67529,218,33,360,55,1954,152,8,0.21,2430,22614,57
+Hounslow,313,2012-13,,,London borough,Good,60336,200,34,300,51,1758,317,18,0.22,4618,24675,75
+Kingston upon Thames,314,2012-13,,,London borough,Outstanding,35670,163,47,130,37,1085,164,15,0.12,4380,9771,49
+Merton,315,2012-13,,,London borough,Good,45015,162,36,140,31,1486,281,19,0.17,5370,14005,64
+Newham,316,2012-13,,,London borough,Inadequate,81518,247,31,410,51,3691,563,15,0.29,8737,41393,93
+Redbridge,317,2012-13,,,London borough,Outstanding,73292,115,16,205,29,1969,492,25,0.19,5045,35868,81
+Richmond upon Thames,318,2012-13,,,London borough,Good,42839,69,17,85,20,785,224,29,0.09,3292,6767,36
+Sutton,319,2012-13,,,London borough,Good,44700,157,36,170,39,1892,257,14,0.16,4413,12234,41
+Waltham Forest,320,2012-13,,,London borough,Good,63785,183,29,275,44,2391,161,7,0.27,6763,26995,80
+Birmingham,330,2012-13,,,Metropolitan borough council,Requires improvement to be good,279992,1026,37,1890,68,11379,1027,9,0.31,4052,99600,64
+Coventry,331,2012-13,,,Metropolitan borough council,Requires improvement to be good,73083,519,72,620,86,3085,341,11,0.25,3270,18098,41
+Dudley,332,2012-13,,,Metropolitan borough council,Requires improvement to be good,67626,242,36,730,108,3000,806,27,0.22,3201,7910,20
+Sandwell,333,2012-13,,,Metropolitan borough council,Inadequate,76887,324,43,600,79,2312,97,4,0.3,3638,20791,47
+Solihull,334,2012-13,,,Metropolitan borough council,Requires improvement to be good,45317,212,47,325,72,1602,313,20,0.16,1164,6479,20
+Walsall,335,2012-13,,,Metropolitan borough council,Requires improvement to be good,63852,251,40,575,90,2695,240,9,0.28,2605,13123,33
+Wolverhampton,336,2012-13,,,Metropolitan borough council,Good,56927,244,43,655,117,1982,209,11,0.31,3616,15071,46
+Knowsley,340,2012-13,,,Metropolitan borough council,Requires improvement to be good,32385,143,44,235,73,1237,183,15,0.34,1687,737,4
+Liverpool,341,2012-13,,,Metropolitan borough council,Requires improvement to be good,89644,342,38,945,106,4079,39,1,0.33,4204,10257,18
+St. Helens,342,2012-13,,,Metropolitan borough council,Inadequate,36274,156,43,440,121,1559,261,17,0.26,1292,918,4
+Sefton,343,2012-13,,,Metropolitan borough council,Requires improvement to be good,53575,214,40,425,79,2193,406,19,0.21,1767,1966,6
+Wirral,344,2012-13,,,Metropolitan borough council,Requires improvement to be good,67498,269,40,665,98,2820,451,16,0.24,2040,2898,7
+Bolton,350,2012-13,,,Metropolitan borough council,Good,65538,215,33,540,83,2358,220,9,0.23,1996,11852,30
+Bury,351,2012-13,,,Metropolitan borough council,Requires improvement to be good,42342,115,27,320,76,1333,102,8,0.18,1872,5198,22
+Manchester,352,2012-13,,,Metropolitan borough council,Requires improvement to be good,112887,736,66,1300,117,5263,547,10,0.34,4414,32105,55
+Oldham,353,2012-13,,,Metropolitan borough council,Requires improvement to be good,57177,295,52,345,61,0,0,0,0.26,1586,13122,38
+Rochdale,354,2012-13,,,Metropolitan borough council,Requires improvement to be good,50549,230,45,505,99,2284,324,14,0.27,1340,9126,33
+Salford,355,2012-13,,,Metropolitan borough council,Good,52270,349,68,540,105,1902,333,18,0.28,2438,5291,20
+Stockport,356,2012-13,,,Metropolitan borough council,Good,61010,309,51,305,50,1668,345,21,0.16,2251,4704,14
+Tameside,357,2012-13,,,Metropolitan borough council,Requires improvement to be good,48691,164,34,385,80,1388,123,9,0.25,2135,5170,18
+Trafford,358,2012-13,,,Metropolitan borough council,Inadequate,52972,212,41,290,55,1317,139,11,0.14,2153,8544,26
+Wigan,359,2012-13,,,Metropolitan borough council,Good,67799,180,27,510,75,2128,254,12,0.2,1694,2209,6
+Barnsley,370,2012-13,,,Metropolitan borough council,Good,49339,187,38,235,48,1177,251,21,0.25,710,1664,6
+Doncaster,371,2012-13,,,Metropolitan borough council,Good,64972,588,91,500,77,3307,282,9,0.25,533,4341,11
+Rotherham,372,2012-13,,,Metropolitan borough council,Good,56121,332,59,390,70,1830,217,12,0.24,902,5374,14
+Sheffield,373,2012-13,,,Metropolitan borough council,Good,114732,437,38,540,47,3860,507,13,0.24,1515,18536,29
+Bradford,380,2012-13,,,Metropolitan borough council,Inadequate,138322,374,27,875,64,3744,462,12,0.25,1431,41777,53
+Calderdale,381,2012-13,,,Metropolitan borough council,Good,45652,228,50,335,73,1933,179,9,0.21,564,6644,21
+Kirklees,382,2012-13,,,Metropolitan borough council,Requires improvement to be good,97961,389,40,650,67,2720,228,8,0.19,1041,19819,36
+Leeds,383,2012-13,,,Metropolitan borough council,Outstanding,158592,983,63,1375,88,6474,545,8,0.23,1373,25183,27
+Wakefield,384,2012-13,,,Metropolitan borough council,Inadequate,68869,338,49,440,65,3441,221,6,0.22,968,4291,10
+Gateshead,390,2012-13,,,Metropolitan borough council,Good,40088,170,42,390,96,1570,306,20,0.23,1407,1754,7
+Newcastle upon Tyne,391,2012-13,,,Metropolitan borough council,Requires improvement to be good,55358,313,57,550,100,2235,491,22,0.27,2485,7362,24
+North Tyneside,392,2012-13,,,Metropolitan borough council,Outstanding,40481,127,32,295,73,1547,127,8,0.2,2447,1643,7
+South Tyneside,393,2012-13,,,Metropolitan borough council,Good,29426,111,38,320,108,1424,176,12,0.28,2303,1177,7
+Sunderland,394,2012-13,,,Metropolitan borough council,Inadequate,54578,271,50,435,80,2353,363,15,0.26,2006,2100,6
+Isles of Scilly,420,2012-13,,,Council of the Isles of Scilly,Good,379,0,0,0,0,13,8,62,0.01,139,11,5
+Bath and North East Somerset,800,2012-13,,,Unitary,Good,34211,122,36,140,42,1334,138,10,0.12,512,2224,10
+"Bristol, City of",801,2012-13,,,Unitary,Requires improvement to be good,90607,392,44,715,80,3712,872,24,0.25,3948,14342,33
+North Somerset,802,2012-13,,,Unitary,Requires improvement to be good,42224,97,23,250,60,1283,204,16,0.15,547,2066,8
+South Gloucestershire,803,2012-13,,,Unitary,Requires improvement to be good,56960,193,34,165,29,2111,246,12,0.12,536,3882,11
+Hartlepool,805,2012-13,,,Unitary,Good,20188,136,67,185,92,1112,111,10,0.31,986,631,5
+Middlesbrough,806,2012-13,,,Unitary,Inadequate,31730,272,86,360,114,2485,288,12,0.36,2574,3860,21
+Redcar and Cleveland,807,2012-13,,,Unitary,Requires improvement to be good,27471,154,56,175,63,1369,266,19,0.27,551,628,4
+Stockton-on-Tees,808,2012-13,,,Unitary,Requires improvement to be good,42337,369,88,360,86,2304,210,9,0.23,939,2260,9
+"Kingston Upon Hull, City of",810,2012-13,,,Unitary,Inadequate,55219,330,60,650,118,2682,393,15,0.34,3597,3996,14
+East Riding of Yorkshire,811,2012-13,,,Unitary,Inadequate,63426,234,37,335,53,1987,215,11,0.13,140,1839,4
+North East Lincolnshire,812,2012-13,,,Unitary,Good,34426,231,67,200,58,2134,203,10,0.29,833,1155,6
+North Lincolnshire,813,2012-13,,,Unitary,Outstanding,35356,82,23,165,47,689,144,21,0.21,199,2156,11
+North Yorkshire,815,2012-13,,,County,Outstanding,118440,419,35,490,41,2912,466,16,0.11,75,4630,6
+York,816,2012-13,,,Unitary,Good,36334,129,36,245,67,1209,114,9,0.12,734,1846,9
+Luton,821,2012-13,,,Unitary,Inadequate,53657,191,36,385,73,2826,562,20,0.24,4740,21151,70
+Bedford Borough,822,2012-13,,,Unitary,Requires improvement to be good,36782,107,30,245,68,1271,161,13,0.19,335,8421,37
+Central Bedfordshire,823,2012-13,,,Unitary,Good,57964,266,47,245,43,1631,192,12,0.14,363,4236,12
+Buckinghamshire,825,2012-13,,,County,Inadequate,117878,190,16,400,34,1973,322,16,0.1,327,18808,27
+Milton Keynes,826,2012-13,,,Unitary,Requires improvement to be good,64240,40,6,280,45,1313,231,18,0.2,819,12926,35
+Derbyshire,830,2012-13,,,County,Requires improvement to be good,154874,588,38,665,43,4410,805,18,0.17,304,4639,5
+Derby,831,2012-13,,,Unitary,Good,57758,225,39,465,81,2144,266,12,0.25,3211,11621,34
+Dorset,835,2012-13,,,County,,77343,243,32,350,45,2181,277,13,0.13,163,3252,7
+Poole,836,2012-13,,,Unitary,0,29435,116,39,145,50,1068,232,22,0.16,2293,1715,10
+Bournemouth,837,2012-13,,,Unitary,0,33480,215,66,265,81,1406,145,10,0.19,4034,3571,19
+Durham,840,2012-13,,,Unitary,Requires improvement to be good,100222,409,41,630,63,0,0,0,0.24,231,2177,4
+Darlington,841,2012-13,,,Unitary,Requires improvement to be good,22793,60,26,210,91,850,184,22,0.22,534,1110,8
+East Sussex,845,2012-13,,,County,Outstanding,104952,546,52,595,57,4863,672,14,0.17,311,6055,11
+Brighton and Hove,846,2012-13,,,Unitary,Good,50645,279,56,445,89,1812,229,13,0.18,3331,5809,21
+Hampshire,850,2012-13,,,County,Outstanding,281744,909,32,1130,40,6502,1534,24,0.12,362,14651,10
+Portsmouth,851,2012-13,,,Unitary,Good,42792,183,43,305,72,1296,195,15,0.24,5113,3589,17
+Southampton,852,2012-13,,,Unitary,Requires improvement to be good,47771,232,49,485,103,2118,299,14,0.25,4779,7062,29
+Leicestershire,855,2012-13,,,County,Requires improvement to be good,134631,393,29,435,32,3556,319,9,0.12,315,12678,15
+Leicester,856,2012-13,,,Unitary,Requires improvement to be good,79540,531,68,520,66,2678,208,8,0.28,4528,27299,67
+Rutland,857,2012-13,,,Unitary,Requires improvement to be good,7795,35,45,30,40,259,34,13,0.08,97,267,6
+Staffordshire,860,2012-13,,,County,Good,170253,535,31,945,55,4903,813,17,0.15,325,8747,8
+Stoke-on-Trent,861,2012-13,,,Unitary,Inadequate,55112,354,65,480,87,3095,381,12,0.29,2673,6815,23
+Wiltshire,865,2012-13,,,Unitary,Good,103467,328,32,445,43,2378,350,15,0.11,147,5086,9
+Swindon,866,2012-13,,,Unitary,Good,47978,147,31,250,53,1205,151,13,0.17,921,5385,20
+Bracknell Forest,867,2012-13,,,Unitary,Good,27379,112,42,105,38,758,96,13,0.11,1052,2452,17
+Windsor and Maidenhead,868,2012-13,,,Unitary,Good,33029,68,21,105,32,715,269,38,0.08,742,5391,30
+West Berkshire,869,2012-13,,,Unitary,Good,35763,82,23,145,40,713,107,15,0.1,220,2853,13
+Reading,870,2012-13,,,Unitary,Requires improvement to be good,35025,157,46,225,66,1221,165,14,0.2,3881,7336,47
+Slough,871,2012-13,,,Unitary,Requires improvement to be good,38964,147,38,185,48,1132,153,14,0.2,4358,17214,79
+Wokingham,872,2012-13,,,Unitary,Requires improvement to be good,36511,65,18,85,24,553,112,20,0.07,875,5289,25
+Cambridgeshire,873,2012-13,,,County,Requires improvement to be good,129570,202,16,470,36,2631,551,21,0.13,205,12121,17
+Peterborough,874,2012-13,,,Unitary,Good,45774,269,60,350,78,1597,210,13,0.25,543,11592,41
+Halton,876,2012-13,,,Unitary,Requires improvement to be good,28167,78,28,145,52,1002,99,10,0.27,1590,577,4
+Warrington,877,2012-13,,,Unitary,Good,44294,156,35,230,52,1040,148,14,0.15,1128,2323,8
+Devon,878,2012-13,,,County,Inadequate,141532,446,32,695,49,4648,1399,30,0.14,115,4885,6
+Plymouth,879,2012-13,,,Unitary,Requires improvement to be good,51288,300,59,370,73,2053,448,22,0.23,3229,2845,9
+Torbay,880,2012-13,,,Unitary,Inadequate,24929,176,71,305,122,1513,320,21,0.24,2091,1135,7
+Essex,881,2012-13,,,County,Outstanding,298341,547,18,1255,42,6737,1432,21,0.17,406,22183,13
+Southend-on-Sea,882,2012-13,,,Unitary,Requires improvement to be good,37889,73,19,235,62,1058,255,24,0.23,4193,5055,20
+Thurrock,883,2012-13,,,Unitary,Good,39446,203,52,260,67,1320,247,19,0.22,978,5915,28
+Herefordshire,884,2012-13,,,Unitary,Requires improvement to be good,36099,197,55,215,60,1359,45,3,0.14,85,1645,8
+Worcestershire,885,2012-13,,,County,Requires improvement to be good,115027,428,37,640,56,3148,430,14,0.16,327,6940,10
+Kent,886,2012-13,,,County,Good,326092,999,31,1825,56,8827,1496,17,0.18,418,29531,15
+Medway,887,2012-13,,,Unitary,Inadequate,61815,200,33,410,67,1812,365,20,0.22,1385,7391,20
+Lancashire,888,2012-13,,,County,Requires improvement to be good,243886,883,36,1475,61,5778,70,1,0.18,405,23004,16
+Blackburn with Darwen,889,2012-13,,,Unitary,Good,38585,141,37,345,89,1675,158,9,0.24,1079,10402,48
+Blackpool,890,2012-13,,,Unitary,Inadequate,29057,337,116,480,166,1634,180,11,0.33,4075,1356,8
+Nottinghamshire,891,2012-13,,,County,Good,162680,786,49,880,54,7759,682,9,0.18,379,10608,11
+Nottingham,892,2012-13,,,Unitary,Requires improvement to be good,63859,436,69,565,90,2587,614,24,0.35,4134,15166,46
+Shropshire,893,2012-13,,,Unitary,Good,60036,214,35,240,40,1490,216,15,0.13,96,2105,6
+Telford and Wrekin,894,2012-13,,,Unitary,Outstanding,38966,142,36,320,82,1312,192,15,0.25,578,3350,14
+Cheshire East,895,2012-13,,,Unitary,Requires improvement to be good,74970,160,21,375,50,1901,172,9,0.12,319,3887,9
+Cheshire West and Chester,896,2012-13,,,Unitary,Good,66122,212,32,385,58,1939,313,16,0.17,360,2690,6
+Cornwall,908,2012-13,,,Unitary,Outstanding,104275,468,45,465,45,3267,745,23,0.18,152,3299,5
+Cumbria,909,2012-13,,,County,Requires improvement to be good,94072,325,34,630,67,3172,464,15,0.16,74,2381,4
+Gloucestershire,916,2012-13,,,County,Inadequate,122772,414,34,520,43,2846,195,7,0.15,227,9001,12
+Hertfordshire,919,2012-13,,,County,Good,258427,578,23,1040,41,5458,1207,22,0.13,687,37227,24
+Isle of Wight,921,2012-13,,,Unitary,Good,25719,101,39,180,69,1232,253,21,0.2,365,937,6
+Lincolnshire,925,2012-13,,,County,Outstanding,140747,294,21,590,42,3383,389,12,0.18,121,8343,9
+Norfolk,926,2012-13,,,County,Requires improvement to be good,166202,0,0,1080,65,0,0,0,0.18,161,9490,10
+Northamptonshire,928,2012-13,,,County,Inadequate,159188,469,30,735,47,5991,432,7,0.17,296,17587,19
+Northumberland,929,2012-13,,,Unitary,Good,60426,289,47,315,52,3153,417,13,0.19,63,1890,5
+Oxfordshire,931,2012-13,,,County,Good,140173,430,31,415,30,3471,558,16,0.12,253,14820,19
+Somerset,933,2012-13,,,County,Requires improvement to be good,108739,310,29,515,47,3769,698,19,0.15,155,4160,7
+Suffolk,935,2012-13,,,County,Outstanding,150014,513,34,735,49,3661,739,20,0.15,193,9959,12
+Surrey,936,2012-13,,,County,Inadequate,252390,890,36,830,33,5116,771,15,0.1,688,26080,20
+Warwickshire,937,2012-13,,,County,Requires improvement to be good,111987,550,49,700,62,3461,303,9,0.14,278,9454,14
+West Sussex,938,2012-13,,,County,Inadequate,167646,424,26,670,40,3534,604,17,0.13,410,13950,15
+"Bournemouth, Christchurch and Poole",839,2012-13,South West,South West,Unitary,Not yet inspected,62915,331,53,410,66,2474,377,16,0.17,6327,5286,15
